@@ -4,7 +4,7 @@
 ---
 
 ## 📌 Informations & Repères
-- **Page :** 6
+- **Page :** 7
 - **Tonalité :** Mi mineur (Em)
 - **Rythmique (Strumming) :** `↓   ↓ ↑   ↑ ↓ ↑` *(Pulsation feu de camp / Marche amérindienne)*
 - **Tempo :** ~105 BPM

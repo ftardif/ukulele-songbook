@@ -4,7 +4,7 @@
 ---
 
 ## 📌 Informations & Repères
-- **Page :** 8
+- **Page :** 9
 - **Tonalité :** La mineur (Am)
 - **Progression d'accords :** Boucle continue `Am — G — Em — F`
 - **Rythmique (Strumming) :** `↓   ↓ ↑   ↑ ↓ ↑` *(D - DU - UDU)* — Folk / Pop québécoise entraînante

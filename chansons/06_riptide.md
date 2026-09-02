@@ -4,7 +4,7 @@
 ---
 
 ## 📌 Informations & Repères
-- **Page :** 7
+- **Page :** 8
 - **Tonalité :** La mineur (Am) *(ou Sib mineur avec Capo 1)*
 - **Progression d'accords :** 
   - Couplets & Refrain : Boucle `Am (2 temps) — G (2 temps) — C (4 temps)`

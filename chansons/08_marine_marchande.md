@@ -4,7 +4,7 @@
 ---
 
 ## 📌 Informations & Repères
-- **Page :** 9
+- **Page :** 10
 - **Tonalité :** Do Majeur (C) / La mineur (Am) *(ou tonalité originale Gb avec capo 6)*
 - **Progression d'accords :** Boucle festive `C — G — Am — F`
 - **Rythmique (Strumming) :** `↓   ↓ ↑   ↑ ↓ ↑` *(Reel maritime / Folk québécois rapide)*

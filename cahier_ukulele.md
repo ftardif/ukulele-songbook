@@ -11,14 +11,16 @@
 | **4** | **Histoire de mensonges** | Fred Pellerin | `C`, `G` |
 | | **🟡 Niveau 2 — Morceaux à 3 accords (Réutilisation)** | | |
 | **5** | **Heureux d’un printemps** | Paul Piché | `Am`, `G`, `Em` *(réutilise les 3 accords majeurs/mineurs)* |
-| **6** | **La légende indienne** | Les Karrik | `Em`, `D`, `G` *(introduit `D`)* |
+| **6** | **Santiano** | Hugues Aufray | `Am`, `G`, `Em` *(chant de marin rassembleur)* |
+| **7** | **La légende indienne** | Les Karrik | `Em`, `D`, `G` *(introduit `D`)* |
 | | **🔵 Niveau 3 — Morceaux à 4 accords populaires** | | |
-| **7** | **Riptide** | Vance Joy | `Am`, `G`, `C`, `F` *(introduit `F`)* |
-| **8** | **Les étoiles filantes** | Les Cowboys Fringants | `Am`, `G`, `Em`, `F` *(combine `Em` et `F`)* |
-| **9** | **Les Aventuriers** | Traditionnel / Feu de camp | `G`, `Em`, `Am7`, `D7` *(accords 7èmes faciles)* |
+| **8** | **Riptide** | Vance Joy | `Am`, `G`, `C`, `F` *(introduit `F`)* |
+| **9** | **Les étoiles filantes** | Les Cowboys Fringants | `Am`, `G`, `Em`, `F` *(combine `Em` et `F`)* |
+| **10** | **Marine marchande** | Les Cowboys Fringants | `C`, `G`, `Am`, `F` *(boucle festive pop/folk)* |
+| **11** | **Les Aventuriers** | Traditionnel / Feu de camp | `G`, `Em`, `Am7`, `D7` *(accords 7èmes faciles)* |
 | | **🟣 Niveau 4 — Morceaux à 5 accords (Arpèges & Nuances)** | | |
-| **10** | **Hallelujah** | Leonard Cohen / Jeff Buckley | `C`, `Am`, `F`, `G`, `E7` *(arpège 6/8, introduit `E7`)* |
-| **11** | **Qui peut faire de la voile sans vent** | Traditionnel / Folklore | `Am`, `Dm`, `G`, `C`, `Em` *(valse 3/4, introduit `Dm`)* |
+| **12** | **Hallelujah** | Leonard Cohen / Jeff Buckley | `C`, `Am`, `F`, `G`, `E7` *(arpège 6/8, introduit `E7`)* |
+| **13** | **Qui peut faire de la voile sans vent** | Traditionnel / Folklore | `Am`, `Dm`, `G`, `C`, `Em` *(valse 3/4, introduit `Dm`)* |
 
 > [!TIP]
 > ### 🎥 Recommandation Vidéo : La chaîne « Ben au Ukulélé » *(Un clin d'œil spécial pour Ben !)*
@@ -50,7 +52,6 @@
 *(Consultez [cahier_ukulele.html](file:///Users/frederic.tardif/Documents/perso/ukulele-songbook/cahier_ukulele.html#page-2) pour le poster visuel avec diagrammes vectoriels et clavier graphique).*
 
 ---
-
 
 # 🎵 Vent frais, vent du matin
 *Chant traditionnel français / Canon*
@@ -111,7 +112,6 @@ Allons dans le vent !
 - **Voix 2 :** Entre quand la Voix 1 arrive à *« Vent qui souffle... »*
 - **Voix 3 :** Entre quand la Voix 1 arrive à *« Joie du vent... »*
 - **Voix 4 :** Entre quand la Voix 1 arrive à *« Allons dans le vent... »*
-
 
 ---
 
@@ -198,7 +198,6 @@ C                                               C
 y’en tomba des framboises.                      mon histoire de mensonges.
 ```
 
-
 ---
 
 # 🎵 Heureux d'un printemps
@@ -265,6 +264,88 @@ Pour le fils d’un patron c’est les vacances     J’peux pas faire autrement
 Pour la fille du restaurant c’est les sueurs pis les clients  On vit rien qu’au printemps l’printemps dure pas longtemps !
 ```
 
+---
+
+# 🎵 Santiano
+*Artiste : Hugues Aufray (1961)*
+
+---
+
+## 📌 Informations & Repères
+- **Page :** 6
+- **Tonalité :** La mineur (Am)
+- **Progression d'accords :** `Am — G — Em` *(Mêmes accords que Heureux d'un printemps !)*
+- **Rythmique (Strumming) :** `↓   ↓ ↑   ↑ ↓ ↑` *(Chant de marin / Entraînant)*
+- **Tempo :** Vif et rythmé (~115 - 120 BPM)
+- **Mesure :** 4/4
+- **Accords :** 
+  - `Am` `[2 0 0 0]` — Corde G frette 2
+  - `G` `[0 2 3 2]` — Corde C(2), A(2), E(3)
+  - `Em` `[0 4 3 2]` — Escalier : A(2), E(3), C(4)
+
+---
+
+## 🎼 Grille et Paroles
+
+### 🌟 Refrain (après chaque couplet)
+```text
+Am                     G
+Tiens bon la vague et tiens bon le vent
+Am                   Em
+Hissez haut ! Santiano !
+     Am                    G
+Si Dieu veut, toujours droit devant
+Am                  Em      Am
+Nous irons jusqu'à San Francisco !
+```
+
+---
+
+```text
+[Intro : Am | G | Em | Am (x2)]
+
+[Couplet 1]                                     [Couplet 3]
+       Am                    G                         Am                    G
+C'est un fameux trois-mâts, fin comme un oiseau On prétend que là-bas, l'argent coule à flots
+Am                   Em                         Am                   Em
+Hissez haut ! Santiano !                        Hissez haut ! Santiano !
+     Am                    G                          Am                   G
+Dix-huit nœuds, quatre cents tonneaux           On trouve l'or au fond des ruisseaux
+Am                 Em    Am                     Am                 Em    Am
+Je suis fier d'y être matelot                   J'en rapporterai plusieurs lingots
+
+[Refrain]                                       [Refrain]
+Am                     G                        Am                     G
+Tiens bon la vague et tiens bon le vent         Tiens bon la vague et tiens bon le vent
+Am                   Em                         Am                   Em
+Hissez haut ! Santiano !                        Hissez haut ! Santiano !
+     Am                    G                          Am                    G
+Si Dieu veut, toujours droit devant             Si Dieu veut, toujours droit devant
+Am                  Em      Am                  Am                  Em      Am
+Nous irons jusqu'à San Francisco !              Nous irons jusqu'à San Francisco !
+
+[Couplet 2]                                     [Couplet 4]
+     Am                G                             Am               G
+Je pars pour de longs mois en laissant Margot   Un jour, je reviendrai chargé de cadeaux
+Am                   Em                         Am                   Em
+Hissez haut ! Santiano !                        Hissez haut ! Santiano !
+      Am                    G                          Am                G
+D'y penser, j'en ai le cœur gros                Au pays, j'épouserai Margot
+Am                  Em    Am                     Am                Em    Am
+En doublant les feux de Saint-Malo              Oui, j'épouserai la belle Margot
+
+[Refrain]                                       [Refrain Final & Outro]
+                                                Am                     G
+                                                Tiens bon la vague et tiens bon le vent
+                                                Am                   Em
+                                                Hissez haut ! Santiano !
+                                                     Am                    G
+                                                Si Dieu veut, toujours droit devant
+                                                Am                  Em      Am
+                                                Nous irons jusqu'à San Francisco !
+                                                Am                  Em      Am (fin)
+                                                Nous irons jusqu'à San Francisco !
+```
 
 ---
 
@@ -274,7 +355,7 @@ Pour la fille du restaurant c’est les sueurs pis les clients  On vit rien qu�
 ---
 
 ## 📌 Informations & Repères
-- **Page :** 6
+- **Page :** 7
 - **Tonalité :** Mi mineur (Em)
 - **Rythmique (Strumming) :** `↓   ↓ ↑   ↑ ↓ ↑` *(Pulsation feu de camp / Marche amérindienne)*
 - **Tempo :** ~105 BPM
@@ -352,7 +433,6 @@ G              D       Em (fin)
 Kao kao kao kao kao kao kao !
 ```
 
-
 ---
 
 # 🎵 Riptide
@@ -361,7 +441,7 @@ Kao kao kao kao kao kao kao !
 ---
 
 ## 📌 Informations & Repères
-- **Page :** 7
+- **Page :** 8
 - **Tonalité :** La mineur (Am) *(ou Sib mineur avec Capo 1)*
 - **Progression d'accords :** 
   - Couplets & Refrain : Boucle `Am (2 temps) — G (2 temps) — C (4 temps)`
@@ -421,7 +501,6 @@ This cowboy's running from himself              I love you when you're singing t
 And she's been living on the highest shelf      In my throat, 'cause you're gonna sing the words wrong
 ```
 
-
 ---
 
 # 🎵 Les étoiles filantes
@@ -430,7 +509,7 @@ And she's been living on the highest shelf      In my throat, 'cause you're gonn
 ---
 
 ## 📌 Informations & Repères
-- **Page :** 8
+- **Page :** 9
 - **Tonalité :** La mineur (Am)
 - **Progression d'accords :** Boucle continue `Am — G — Em — F`
 - **Rythmique (Strumming) :** `↓   ↓ ↑   ↑ ↓ ↑` *(D - DU - UDU)* — Folk / Pop québécoise entraînante
@@ -542,7 +621,6 @@ On s'dira que l'on était finalement…
 …que des étoiles filantes !
 ```
 
-
 ---
 
 # 🎵 Marine marchande
@@ -551,7 +629,7 @@ On s'dira que l'on était finalement…
 ---
 
 ## 📌 Informations & Repères
-- **Page :** 9
+- **Page :** 10
 - **Tonalité :** Do Majeur (C) / La mineur (Am) *(ou tonalité originale Gb avec capo 6)*
 - **Progression d'accords :** Boucle festive `C — G — Am — F`
 - **Rythmique (Strumming) :** `↓   ↓ ↑   ↑ ↓ ↑` *(Reel maritime / Folk québécois rapide)*
@@ -639,7 +717,6 @@ Je me suis engagé dans la marine marchande !    Am
                                                 Je me suis engagé dans la marine marchande !
 ```
 
-
 ---
 
 # 🎵 Les Aventuriers
@@ -648,7 +725,7 @@ Je me suis engagé dans la marine marchande !    Am
 ---
 
 ## 📌 Informations & Repères
-- **Page :** 10
+- **Page :** 11
 - **Tonalité :** Sol Majeur (G)
 - **Progression d'accords :** Boucle classique `G — Em — Am7 — D7`
 - **Rythmique (Strumming) :** `↓   ↓ ↑   ↑ ↓ ↑` *(Bas, Bas-Haut, Haut-Bas-Haut / Rythme Calypso)*
@@ -730,7 +807,6 @@ Vivre sa vie, du vent plein les voilures
 
 *(Refrain final)*
 
-
 ---
 
 # 🎵 Hallelujah
@@ -739,7 +815,7 @@ Vivre sa vie, du vent plein les voilures
 ---
 
 ## 📌 Informations & Repères
-- **Page :** 11
+- **Page :** 12
 - **Tonalité :** Do Majeur (C)
 - **Mesure :** 6/8 (Ballade en 6 temps)
 - **Rythmique (Strumming) :** `↓   ↓ ↑ ↓   ↓ ↑` *(1, 2-et-3, 4, 5-et-6)* ou arpège doux P-I-M-A-M-I
@@ -793,7 +869,6 @@ She broke your throne and she cut your hair     It's not somebody who's seen the
 And from your lips she drew the hallelujah      It's a cold and it's a broken hallelujah
 ```
 
-
 ---
 
 # 🎵 Qui peut faire de la voile sans vent
@@ -802,7 +877,7 @@ And from your lips she drew the hallelujah      It's a cold and it's a broken ha
 ---
 
 ## 📌 Informations & Repères
-- **Page :** 12
+- **Page :** 13
 - **Tonalité :** La mineur (Am)
 - **Mesure :** 3/4 (Valse lente)
 - **Rythmique (Strumming) :** `↓   ↓ ↑   ↓ ↑` *(1, 2-et, 3-et)* ou arpège doux Pouce-Index-Majeur-Annulaire
