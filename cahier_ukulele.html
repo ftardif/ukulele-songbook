@@ -477,6 +477,160 @@
         </div>
       </div>
 
+      <!-- Visual Headstock & Peg-to-String Tuning Guide -->
+      <div style="background: #ffffff; border: 1.5px solid #fca5a5; border-radius: 8px; padding: 6px 12px; margin-bottom: 8px; box-shadow: 0 1px 4px rgba(0,0,0,0.04);">
+        <div style="display: flex; align-items: center; justify-content: space-between; margin-bottom: 4px; border-bottom: 1px dashed #fee2e2; padding-bottom: 3px;">
+          <span style="font-size: 7.6pt; font-weight: 800; color: #991b1b; text-transform: uppercase; letter-spacing: 0.5px;">
+            🎸 Repère Visuel d'Accordage Standard : Tête de Ukulélé &amp; Correspondance des Clefs
+          </span>
+          <span style="font-size: 7.2pt; font-weight: 700; color: #b91c1c; font-family: 'Fira Code', monospace; background: #fef2f2; padding: 1px 8px; border-radius: 4px; border: 1px solid #fecaca;">
+            G - C - E - A (Sol - Do - Mi - La)
+          </span>
+        </div>
+        <svg viewBox="0 0 540 120" width="100%" height="110" xmlns="http://www.w3.org/2000/svg" style="display:block; margin:0 auto;">
+  <defs>
+    <!-- Warm Acoustic Wood Gradient -->
+    <linearGradient id="headWood" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#9a3412"/>
+      <stop offset="20%" stop-color="#c2410c"/>
+      <stop offset="50%" stop-color="#ea580c"/>
+      <stop offset="80%" stop-color="#c2410c"/>
+      <stop offset="100%" stop-color="#7c2d12"/>
+    </linearGradient>
+    <!-- Chrome Metal Gradient -->
+    <linearGradient id="pegMetal" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#ffffff"/>
+      <stop offset="40%" stop-color="#cbd5e1"/>
+      <stop offset="100%" stop-color="#64748b"/>
+    </linearGradient>
+    <filter id="shadowLight" x="-5%" y="-5%" width="110%" height="110%">
+      <feDropShadow dx="0" dy="2" stdDeviation="2.5" flood-color="#000000" flood-opacity="0.12"/>
+    </filter>
+  </defs>
+
+  <!-- ================= LEFT CALLOUT BADGES (Clefs 4 & 3) ================= -->
+  <!-- Clef 4 : Sol (G) -->
+  <g transform="translate(12, 16)">
+    <rect x="0" y="0" width="180" height="34" rx="6" fill="#ffffff" stroke="#ef4444" stroke-width="1.4" filter="url(#shadowLight)"/>
+    <rect x="6" y="6" width="34" height="22" rx="4" fill="#fee2e2"/>
+    <text x="23" y="20.5" text-anchor="middle" font-family="-apple-system, sans-serif" font-size="10" font-weight="900" fill="#dc2626">G</text>
+    <text x="46" y="16" font-family="-apple-system, sans-serif" font-size="7.5" font-weight="800" fill="#991b1b">CORDE 4 : SOL (G)</text>
+    <text x="46" y="27" font-family="-apple-system, sans-serif" font-size="6.8" font-weight="600" fill="#64748b">Clef supérieure gauche (pouce)</text>
+    <!-- Indicator line to peg -->
+    <path d="M 180,17 L 222,25" stroke="#ef4444" stroke-width="1.3" stroke-dasharray="2,2"/>
+    <circle cx="222" cy="25" r="2" fill="#ef4444"/>
+  </g>
+
+  <!-- Clef 3 : Do (C) -->
+  <g transform="translate(12, 64)">
+    <rect x="0" y="0" width="180" height="34" rx="6" fill="#ffffff" stroke="#ef4444" stroke-width="1.4" filter="url(#shadowLight)"/>
+    <rect x="6" y="6" width="34" height="22" rx="4" fill="#fee2e2"/>
+    <text x="23" y="20.5" text-anchor="middle" font-family="-apple-system, sans-serif" font-size="10" font-weight="900" fill="#dc2626">C</text>
+    <text x="46" y="16" font-family="-apple-system, sans-serif" font-size="7.5" font-weight="800" fill="#991b1b">CORDE 3 : DO (C)</text>
+    <text x="46" y="27" font-family="-apple-system, sans-serif" font-size="6.8" font-weight="600" fill="#64748b">Clef inférieure gauche (plus grave)</text>
+    <!-- Indicator line to peg -->
+    <path d="M 180,17 L 222,9" stroke="#ef4444" stroke-width="1.3" stroke-dasharray="2,2" transform="translate(0, 64)"/>
+    <circle cx="222" cy="73" r="2" fill="#ef4444"/>
+  </g>
+
+
+  <!-- ================= CENTER: UKULELE HEADSTOCK ================= -->
+  <g transform="translate(230, 8)" filter="url(#shadowLight)">
+    <!-- Fretboard Top (Palissandre) -->
+    <rect x="22" y="80" width="36" height="30" fill="#29160a" rx="1"/>
+    <!-- Frets -->
+    <line x1="22" y1="94" x2="58" y2="94" stroke="#cbd5e1" stroke-width="1.4"/>
+    <line x1="22" y1="106" x2="58" y2="106" stroke="#cbd5e1" stroke-width="1.4"/>
+
+    <!-- Nut (Sillet de tête en os) -->
+    <rect x="20" y="75" width="40" height="6" fill="#f8fafc" stroke="#94a3b8" stroke-width="0.8" rx="1.5"/>
+
+    <!-- Headstock Body (Tête galbée) -->
+    <path d="M 23,75 
+             C 19,54 16,28 18,16 
+             C 20,8 26,4 32,8 
+             C 36,11 40,6 40,6 
+             C 40,6 44,11 48,8 
+             C 54,4 60,8 62,16 
+             C 64,28 61,54 57,75 Z" 
+          fill="url(#headWood)" stroke="#431407" stroke-width="1.4"/>
+
+    <!-- Inlay Logo -->
+    <circle cx="40" cy="18" r="3.2" fill="#431407" opacity="0.6"/>
+    <text x="40" y="20" text-anchor="middle" font-family="serif" font-size="4.2" font-weight="900" fill="#fef3c7">U</text>
+
+    <!-- Tuning Posts / Capstans -->
+    <circle cx="27" cy="25" r="2.8" fill="#1e293b" stroke="#cbd5e1" stroke-width="0.8"/>
+    <circle cx="27" cy="57" r="2.8" fill="#1e293b" stroke="#cbd5e1" stroke-width="0.8"/>
+    <circle cx="53" cy="57" r="2.8" fill="#1e293b" stroke="#cbd5e1" stroke-width="0.8"/>
+    <circle cx="53" cy="25" r="2.8" fill="#1e293b" stroke="#cbd5e1" stroke-width="0.8"/>
+
+    <!-- Left Peg 4 (Top Left - G) -->
+    <rect x="9" y="23.5" width="18" height="3" fill="url(#pegMetal)" rx="1"/>
+    <ellipse cx="6" cy="25" rx="5" ry="7.5" fill="#f8fafc" stroke="#475569" stroke-width="1.2"/>
+
+    <!-- Left Peg 3 (Bottom Left - C) -->
+    <rect x="9" y="55.5" width="18" height="3" fill="url(#pegMetal)" rx="1"/>
+    <ellipse cx="6" cy="57" rx="5" ry="7.5" fill="#f8fafc" stroke="#475569" stroke-width="1.2"/>
+
+    <!-- Right Peg 2 (Bottom Right - E) -->
+    <rect x="53" y="55.5" width="18" height="3" fill="url(#pegMetal)" rx="1"/>
+    <ellipse cx="74" cy="57" rx="5" ry="7.5" fill="#f8fafc" stroke="#475569" stroke-width="1.2"/>
+
+    <!-- Right Peg 1 (Top Right - A) -->
+    <rect x="53" y="23.5" width="18" height="3" fill="url(#pegMetal)" rx="1"/>
+    <ellipse cx="74" cy="25" rx="5" ry="7.5" fill="#f8fafc" stroke="#475569" stroke-width="1.2"/>
+
+    <!-- ================= 4 STRINGS ================= -->
+    <!-- String 4 (Sol / G) -->
+    <line x1="27" y1="25" x2="26" y2="75" stroke="#f1f5f9" stroke-width="1.4" opacity="0.9"/>
+    <line x1="26" y1="75" x2="26" y2="110" stroke="#f1f5f9" stroke-width="1.4"/>
+
+    <!-- String 3 (Do / C - Corde la plus épaisse !) -->
+    <line x1="27" y1="57" x2="35" y2="75" stroke="#ffffff" stroke-width="1.9" opacity="0.9"/>
+    <line x1="35" y1="75" x2="35" y2="110" stroke="#ffffff" stroke-width="1.9"/>
+
+    <!-- String 2 (Mi / E) -->
+    <line x1="53" y1="57" x2="45" y2="75" stroke="#f1f5f9" stroke-width="1.4" opacity="0.9"/>
+    <line x1="45" y1="75" x2="45" y2="110" stroke="#f1f5f9" stroke-width="1.4"/>
+
+    <!-- String 1 (La / A - Corde la plus fine) -->
+    <line x1="53" y1="25" x2="54" y2="75" stroke="#e2e8f0" stroke-width="1.1" opacity="0.9"/>
+    <line x1="54" y1="75" x2="54" y2="110" stroke="#e2e8f0" stroke-width="1.1"/>
+  </g>
+
+
+  <!-- ================= RIGHT CALLOUT BADGES (Clefs 1 & 2) ================= -->
+  <!-- Clef 1 : La (A) -->
+  <g transform="translate(348, 16)">
+    <!-- Indicator line from peg -->
+    <path d="M -40,17 L 0,17" stroke="#ef4444" stroke-width="1.3" stroke-dasharray="2,2"/>
+    <circle cx="-40" cy="17" r="2" fill="#ef4444"/>
+    <rect x="0" y="0" width="180" height="34" rx="6" fill="#ffffff" stroke="#ef4444" stroke-width="1.4" filter="url(#shadowLight)"/>
+    <rect x="6" y="6" width="34" height="22" rx="4" fill="#fee2e2"/>
+    <text x="23" y="20.5" text-anchor="middle" font-family="-apple-system, sans-serif" font-size="10" font-weight="900" fill="#dc2626">A</text>
+    <text x="46" y="16" font-family="-apple-system, sans-serif" font-size="7.5" font-weight="800" fill="#991b1b">CORDE 1 : LA (A)</text>
+    <text x="46" y="27" font-family="-apple-system, sans-serif" font-size="6.8" font-weight="600" fill="#64748b">Clef supérieure droite (plus aiguë)</text>
+  </g>
+
+  <!-- Clef 2 : Mi (E) -->
+  <g transform="translate(348, 64)">
+    <!-- Indicator line from peg -->
+    <path d="M -40,17 L 0,17" stroke="#ef4444" stroke-width="1.3" stroke-dasharray="2,2"/>
+    <circle cx="-40" cy="17" r="2" fill="#ef4444"/>
+    <rect x="0" y="0" width="180" height="34" rx="6" fill="#ffffff" stroke="#ef4444" stroke-width="1.4" filter="url(#shadowLight)"/>
+    <rect x="6" y="6" width="34" height="22" rx="4" fill="#fee2e2"/>
+    <text x="23" y="20.5" text-anchor="middle" font-family="-apple-system, sans-serif" font-size="10" font-weight="900" fill="#dc2626">E</text>
+    <text x="46" y="16" font-family="-apple-system, sans-serif" font-size="7.5" font-weight="800" fill="#991b1b">CORDE 2 : MI (E)</text>
+    <text x="46" y="27" font-family="-apple-system, sans-serif" font-size="6.8" font-weight="600" fill="#64748b">Clef inférieure droite</text>
+  </g>
+</svg>
+        <div style="display: flex; align-items: center; justify-content: space-between; font-size: 6.8pt; color: #475569; margin-top: 3px; font-weight: 600;">
+          <span>💡 En position de jeu (de haut en bas) : <strong>4<sup>e</sup> Corde = Sol (G)</strong> • <strong>3<sup>e</sup> Corde = Do (C)</strong> • <strong>2<sup>e</sup> Corde = Mi (E)</strong> • <strong>1<sup>re</sup> Corde = La (A)</strong></span>
+          <span style="font-style: italic; color: #991b1b;">(Vue de face instrument tenu droit)</span>
+        </div>
+      </div>
+
       <!-- Two Separated, Well-Spaced QR Code Cards -->
       <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 16px; margin-top: 6px;">
         
