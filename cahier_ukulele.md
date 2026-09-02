@@ -25,7 +25,7 @@
 
 > [!TIP]
 > ### 🎥 Recommandation Vidéo : La chaîne « Ben au Ukulélé » *(Un clin d'œil spécial pour Ben !)*
-> Le concept de la chaîne **Ben au Ukulélé** est idéal pour démarrer en toute confiance : une pédagogie **100% pratique, bienveillante et accessible**, sans solfège complexe, conçue pour apprendre les bons réflexes (posture, accordage, battements) et jouer des morceaux complets dès le premier jour !
+> Tutoriels pas-à-pas, vidéos d'accompagnement (play-alongs) et conseils pratiques de la chaîne **Ben au Ukulélé** pour bien débuter, maîtriser les rythmiques et jouer facilement ses premiers morceaux au ukulélé.
 >
 > 🌐 **Liens d'accès directs (à saisir ou scanner à l'impression) :**
 > - 🎬 **1<sup>er</sup> Cours Débutant (20 min chrono) :** `https://www.youtube.com/watch?v=98dizc1ZNFw`
