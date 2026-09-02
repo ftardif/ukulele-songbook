@@ -564,41 +564,41 @@
         <div style="display: flex; align-items: center; justify-content: center; margin: 2px 0;">
           <svg viewBox="0 0 320 105" width="100%" height="95" xmlns="http://www.w3.org/2000/svg" style="display:block; margin:0 auto;">
   <defs>
-    <linearGradient id="headWood3" x1="0%" y1="0%" x2="100%" y2="0%">
+    <linearGradient id="headWood4" x1="0%" y1="0%" x2="100%" y2="0%">
       <stop offset="0%" stop-color="#9a3412"/>
       <stop offset="25%" stop-color="#c2410c"/>
       <stop offset="70%" stop-color="#ea580c"/>
       <stop offset="100%" stop-color="#7c2d12"/>
     </linearGradient>
-    <linearGradient id="pegMetal3" x1="0%" y1="0%" x2="0%" y2="100%">
+    <linearGradient id="pegMetal4" x1="0%" y1="0%" x2="0%" y2="100%">
       <stop offset="0%" stop-color="#ffffff"/>
       <stop offset="40%" stop-color="#cbd5e1"/>
       <stop offset="100%" stop-color="#64748b"/>
     </linearGradient>
   </defs>
 
-  <!-- Left Side Badges: Strings 4 & 3 -->
-  <!-- String 4 : G (Sol) -->
+  <!-- ================= LEFT SIDE BADGES ================= -->
+  <!-- Haut à Gauche: SOL (G) - Corde 4 -->
   <g transform="translate(6, 12)">
     <rect x="0" y="0" width="104" height="28" rx="4" fill="#ffffff" stroke="#ef4444" stroke-width="1.2"/>
     <rect x="4" y="4" width="20" height="20" rx="3" fill="#fee2e2"/>
     <text x="14" y="18" text-anchor="middle" font-family="-apple-system, sans-serif" font-size="10" font-weight="900" fill="#dc2626">G</text>
-    <text x="29" y="13" font-family="-apple-system, sans-serif" font-size="6.8" font-weight="800" fill="#991b1b">CORDE 4 : SOL</text>
-    <text x="29" y="22" font-family="-apple-system, sans-serif" font-size="5.8" font-weight="600" fill="#64748b">Clef haut gauche</text>
+    <text x="28" y="13" font-family="-apple-system, sans-serif" font-size="6.8" font-weight="800" fill="#991b1b">CORDE 4 : SOL</text>
+    <text x="28" y="22" font-family="-apple-system, sans-serif" font-size="5.8" font-weight="600" fill="#64748b">Clef haut gauche</text>
     <path d="M 104,14 L 126,20" stroke="#ef4444" stroke-width="1.2" stroke-dasharray="2,1.5"/>
   </g>
 
-  <!-- String 3 : C (Do) -->
+  <!-- Bas à Gauche: DO (C) - Corde 3 (Plus grave) -->
   <g transform="translate(6, 52)">
     <rect x="0" y="0" width="104" height="28" rx="4" fill="#ffffff" stroke="#ef4444" stroke-width="1.2"/>
     <rect x="4" y="4" width="20" height="20" rx="3" fill="#fee2e2"/>
     <text x="14" y="18" text-anchor="middle" font-family="-apple-system, sans-serif" font-size="10" font-weight="900" fill="#dc2626">C</text>
-    <text x="29" y="13" font-family="-apple-system, sans-serif" font-size="6.8" font-weight="800" fill="#991b1b">CORDE 3 : DO</text>
-    <text x="29" y="22" font-family="-apple-system, sans-serif" font-size="5.8" font-weight="600" fill="#64748b">Clef bas gauche</text>
+    <text x="28" y="13" font-family="-apple-system, sans-serif" font-size="6.8" font-weight="800" fill="#991b1b">CORDE 3 : DO</text>
+    <text x="28" y="22" font-family="-apple-system, sans-serif" font-size="5.8" font-weight="700" fill="#b91c1c">Clef bas gauche (grave)</text>
     <path d="M 104,14 L 126,6" stroke="#ef4444" stroke-width="1.2" stroke-dasharray="2,1.5" transform="translate(0, 52)"/>
   </g>
 
-  <!-- Center Headstock -->
+  <!-- ================= CENTER HEADSTOCK ================= -->
   <g transform="translate(132, 4)">
     <!-- Fretboard -->
     <rect x="18" y="60" width="28" height="32" fill="#29160a" rx="1"/>
@@ -609,66 +609,70 @@
     <rect x="16" y="56" width="32" height="5" fill="#f8fafc" stroke="#94a3b8" stroke-width="0.8" rx="1"/>
 
     <!-- Headstock Body -->
-    <path d="M 18,56 C 15,40 13,20 15,12 C 16,6 21,3 26,6 C 29,8 32,4 32,4 C 32,4 35,8 38,6 C 43,3 48,6 49,12 C 51,20 49,40 46,56 Z" fill="url(#headWood3)" stroke="#431407" stroke-width="1.2"/>
+    <path d="M 18,56 C 15,40 13,20 15,12 C 16,6 21,3 26,6 C 29,8 32,4 32,4 C 32,4 35,8 38,6 C 43,3 48,6 49,12 C 51,20 49,40 46,56 Z" fill="url(#headWood4)" stroke="#431407" stroke-width="1.2"/>
     
     <circle cx="32" cy="14" r="2.2" fill="#431407" opacity="0.6"/>
     <text x="32" y="15.5" text-anchor="middle" font-family="serif" font-size="3" font-weight="900" fill="#fef3c7">U</text>
 
     <!-- Peg Posts -->
+    <!-- Top-Left (Sol / G) -->
     <circle cx="21" cy="20" r="2.2" fill="#1e293b"/>
+    <!-- Bottom-Left (Do / C) -->
     <circle cx="21" cy="44" r="2.2" fill="#1e293b"/>
-    <circle cx="43" cy="44" r="2.2" fill="#1e293b"/>
+    <!-- Top-Right (Mi / E) -->
     <circle cx="43" cy="20" r="2.2" fill="#1e293b"/>
+    <!-- Bottom-Right (La / A) -->
+    <circle cx="43" cy="44" r="2.2" fill="#1e293b"/>
 
-    <!-- Left Pegs -->
-    <rect x="7" y="18.5" width="14" height="2.5" fill="url(#pegMetal3)" rx="0.5"/>
+    <!-- Left Pegs (Knobs) -->
+    <rect x="7" y="18.5" width="14" height="2.5" fill="url(#pegMetal4)" rx="0.5"/>
     <ellipse cx="5" cy="20" rx="3.8" ry="5.5" fill="#f8fafc" stroke="#475569" stroke-width="1"/>
-    <rect x="7" y="42.5" width="14" height="2.5" fill="url(#pegMetal3)" rx="0.5"/>
+    <rect x="7" y="42.5" width="14" height="2.5" fill="url(#pegMetal4)" rx="0.5"/>
     <ellipse cx="5" cy="44" rx="3.8" ry="5.5" fill="#f8fafc" stroke="#475569" stroke-width="1"/>
 
-    <!-- Right Pegs -->
-    <rect x="43" y="42.5" width="14" height="2.5" fill="url(#pegMetal3)" rx="0.5"/>
-    <ellipse cx="59" cy="44" rx="3.8" ry="5.5" fill="#f8fafc" stroke="#475569" stroke-width="1"/>
-    <rect x="43" y="18.5" width="14" height="2.5" fill="url(#pegMetal3)" rx="0.5"/>
+    <!-- Right Pegs (Knobs) -->
+    <rect x="43" y="18.5" width="14" height="2.5" fill="url(#pegMetal4)" rx="0.5"/>
     <ellipse cx="59" cy="20" rx="3.8" ry="5.5" fill="#f8fafc" stroke="#475569" stroke-width="1"/>
+    <rect x="43" y="42.5" width="14" height="2.5" fill="url(#pegMetal4)" rx="0.5"/>
+    <ellipse cx="59" cy="44" rx="3.8" ry="5.5" fill="#f8fafc" stroke="#475569" stroke-width="1"/>
 
-    <!-- 4 Strings -->
-    <!-- String 4 (Sol / G) -->
+    <!-- ================= 4 STRINGS ================= -->
+    <!-- Corde 4 : SOL (G) - from Top-Left peg (21,20) down to leftmost nut groove (20,56) and fretboard (20,92) -->
     <line x1="21" y1="20" x2="20" y2="56" stroke="#f1f5f9" stroke-width="1.2"/>
     <line x1="20" y1="56" x2="20" y2="92" stroke="#f1f5f9" stroke-width="1.2"/>
 
-    <!-- String 3 (Do / C - plus épaisse) -->
+    <!-- Corde 3 : DO (C - plus épaisse) - from Bottom-Left peg (21,44) down to inner-left nut groove (27,56) and fretboard (27,92) -->
     <line x1="21" y1="44" x2="27" y2="56" stroke="#ffffff" stroke-width="1.8"/>
     <line x1="27" y1="56" x2="27" y2="92" stroke="#ffffff" stroke-width="1.8"/>
 
-    <!-- String 2 (Mi / E) -->
-    <line x1="43" y1="44" x2="37" y2="56" stroke="#f1f5f9" stroke-width="1.2"/>
+    <!-- Corde 2 : MI (E) - from Top-Right peg (43,20) down to inner-right nut groove (37,56) and fretboard (37,92) -->
+    <line x1="43" y1="20" x2="37" y2="56" stroke="#f1f5f9" stroke-width="1.2"/>
     <line x1="37" y1="56" x2="37" y2="92" stroke="#f1f5f9" stroke-width="1.2"/>
 
-    <!-- String 1 (La / A) -->
-    <line x1="43" y1="20" x2="44" y2="56" stroke="#e2e8f0" stroke-width="0.9"/>
+    <!-- Corde 1 : LA (A - plus fine) - from Bottom-Right peg (43,44) down to rightmost nut groove (44,56) and fretboard (44,92) -->
+    <line x1="43" y1="44" x2="44" y2="56" stroke="#e2e8f0" stroke-width="0.9"/>
     <line x1="44" y1="56" x2="44" y2="92" stroke="#e2e8f0" stroke-width="0.9"/>
   </g>
 
-  <!-- Right Side Badges: Strings 2 & 1 -->
-  <!-- String 1 : A (La) -->
+  <!-- ================= RIGHT SIDE BADGES ================= -->
+  <!-- Haut à Droite: MI (E) - Corde 2 -->
   <g transform="translate(210, 12)">
     <path d="M -18,8 L 0,14" stroke="#ef4444" stroke-width="1.2" stroke-dasharray="2,1.5"/>
     <rect x="0" y="0" width="104" height="28" rx="4" fill="#ffffff" stroke="#ef4444" stroke-width="1.2"/>
     <rect x="4" y="4" width="20" height="20" rx="3" fill="#fee2e2"/>
-    <text x="14" y="18" text-anchor="middle" font-family="-apple-system, sans-serif" font-size="10" font-weight="900" fill="#dc2626">A</text>
-    <text x="29" y="13" font-family="-apple-system, sans-serif" font-size="6.8" font-weight="800" fill="#991b1b">CORDE 1 : LA</text>
-    <text x="29" y="22" font-family="-apple-system, sans-serif" font-size="5.8" font-weight="600" fill="#64748b">Clef haut droite</text>
+    <text x="14" y="18" text-anchor="middle" font-family="-apple-system, sans-serif" font-size="10" font-weight="900" fill="#dc2626">E</text>
+    <text x="28" y="13" font-family="-apple-system, sans-serif" font-size="6.8" font-weight="800" fill="#991b1b">CORDE 2 : MI</text>
+    <text x="28" y="22" font-family="-apple-system, sans-serif" font-size="5.8" font-weight="600" fill="#64748b">Clef haut droite</text>
   </g>
 
-  <!-- String 2 : E (Mi) -->
+  <!-- Bas à Droite: LA (A) - Corde 1 (Plus aiguë) -->
   <g transform="translate(210, 52)">
     <path d="M -18,6 L 0,14" stroke="#ef4444" stroke-width="1.2" stroke-dasharray="2,1.5"/>
     <rect x="0" y="0" width="104" height="28" rx="4" fill="#ffffff" stroke="#ef4444" stroke-width="1.2"/>
     <rect x="4" y="4" width="20" height="20" rx="3" fill="#fee2e2"/>
-    <text x="14" y="18" text-anchor="middle" font-family="-apple-system, sans-serif" font-size="10" font-weight="900" fill="#dc2626">E</text>
-    <text x="29" y="13" font-family="-apple-system, sans-serif" font-size="6.8" font-weight="800" fill="#991b1b">CORDE 2 : MI</text>
-    <text x="29" y="22" font-family="-apple-system, sans-serif" font-size="5.8" font-weight="600" fill="#64748b">Clef bas droite</text>
+    <text x="14" y="18" text-anchor="middle" font-family="-apple-system, sans-serif" font-size="10" font-weight="900" fill="#dc2626">A</text>
+    <text x="28" y="13" font-family="-apple-system, sans-serif" font-size="6.8" font-weight="800" fill="#991b1b">CORDE 1 : LA</text>
+    <text x="28" y="22" font-family="-apple-system, sans-serif" font-size="5.8" font-weight="700" fill="#b91c1c">Clef bas droite (aiguë)</text>
   </g>
 </svg>
         </div>
