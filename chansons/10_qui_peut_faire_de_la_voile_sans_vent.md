@@ -4,7 +4,7 @@
 ---
 
 ## 📌 Informations & Repères
-- **Page :** 11
+- **Page :** 12
 - **Tonalité :** La mineur (Am)
 - **Mesure :** 3/4 (Valse lente)
 - **Rythmique (Strumming) :** `↓   ↓ ↑   ↓ ↑` *(1, 2-et, 3-et)* ou arpège doux Pouce-Index-Majeur-Annulaire
