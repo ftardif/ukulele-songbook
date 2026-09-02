@@ -4,7 +4,7 @@
 ---
 
 ## 📌 Informations & Repères
-- **Page :** 11
+- **Page :** 12
 - **Tonalité :** Sol Majeur (G)
 - **Progression d'accords :** Boucle classique `G — Em — Am7 — D7`
 - **Rythmique (Strumming) :** `↓   ↓ ↑   ↑ ↓ ↑` *(Bas, Bas-Haut, Haut-Bas-Haut / Rythme Calypso)*
