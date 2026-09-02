@@ -5,7 +5,7 @@
 
 | Page | Titre de la Chanson | Artiste | Niveau & Accords Requis |
 | :---: | :--- | :--- | :--- |
-| **2** | **Grille Complète des Accords (35 Accords)** | — | — |
+| **2** | **Théorie** | — | — |
 | | **🟢 Niveau 1 — Morceaux à 2 accords** | | |
 | **3** | **Vent frais, vent du matin** | Traditionnel (Canon) | `Am`, `Em` |
 | **4** | **Histoire de mensonges** | Fred Pellerin | `C`, `G` |
@@ -34,7 +34,7 @@
 
 ---
 
-## Page 2 : Guide des Notes & Tableau des 35 Accords
+## Page 2 : Théorie
 
 ### 🎹 Correspondance Solfège Français ↔ Nomenclature Internationale & Clavier
 | Anglais (Notation) | C | D | E | F | G | A | B |
