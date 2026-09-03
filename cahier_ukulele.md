@@ -33,8 +33,6 @@
 
 ---
 
----
-
 ## 🌐 Cahier de Chant Disponible en Ligne
 > Retrouvez ce livret interactif, les accords cliquables, les diagrammes et les mises à jour régulières en ligne sur **[https://ftardif.github.io/ukulele-songbook/](https://ftardif.github.io/ukulele-songbook/)** (dépôt : `https://github.com/ftardif/ukulele-songbook`).
 
@@ -437,7 +435,7 @@ Hier, j’ai mêlé pour toujours mon sang à celui de son amour,
     Am               G                                  Am
 Et, sous la lune, les sorciers ont mené la danse des guerriers.
 
-[Refrain : Par la voix du grand Esprit...]
+[🪕 Refrain]
 
 [Couplet 3]
        Am              G                                  Am
@@ -445,7 +443,7 @@ Quand le tamtam s’arrêtera, sous la tente, on les laissera.
        Am              G                               Am
 Dans ses bras, la jeune épousée tendrement va se reposer.
 
-[Refrain : Par la voix du grand Esprit...]
+[🪕 Refrain]
 
 [Couplet 4 & Final]
      Am                  G                                        Am
@@ -737,7 +735,7 @@ Au milieu de la rivière, le canot a coulé,
 Am                G               F                 E7
 Le fermier apprend que l'enfant s'est noyééééé... (miaou !)
 
-[Refrain : Mais le matou revient...]
+[🪕 Refrain]
 
 [Couplet 3 — La dynamite]
 Am                 G        F              E7
@@ -750,7 +748,7 @@ Am                     G            F               E7
 Une pluie d'petits morceaux d'homme vient de tomber !
 (parlé) : Tiens ! Un doigt ! Oh ! Un genou ! Hum ! Un œil !
 
-[Refrain : Mais le matou revient...]
+[🪕 Refrain]
 
 [Couplet 4 — Le boucher]
 Am                 G          F                E7
@@ -762,7 +760,7 @@ Le chat hurle et disparaît dans la machine...
 Am               G            F                  E7
 « De la viande poilue » est affiché sur la vitrine !
 
-[Refrain : Mais le matou revient...]
+[🪕 Refrain]
 
 [Couplet 5 — Le ballon]
 Am              G          F            E7
@@ -1213,7 +1211,7 @@ Avec la meute j'deviens plus grand
              (stop)
 La force du loup, c'est le clan !
 
-[Refrain : Ensemble on est mieux...]
+[🪕 Refrain]
 
 [Couplet 3 — Les Éclaireurs]
         Em
@@ -1233,7 +1231,7 @@ On construit même nos pilotis
           B7
 À bout de bras et d'énergie !
 
-[Refrain : Ensemble on est mieux...]
+[🪕 Refrain]
 
 [Couplet 4 — Les Pionniers / Pi's]
                   Em
@@ -1481,7 +1479,7 @@ J'ai lu Sartre comme de raison,
         Am        E7    Am
 Simone était mon opinion.
 
-[Refrain : Je n'aime que la nuit...]
+[🪕 Refrain]
 
 [Couplet 3]
           Am               Dm

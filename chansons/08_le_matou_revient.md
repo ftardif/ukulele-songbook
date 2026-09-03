@@ -59,7 +59,7 @@ Au milieu de la rivière, le canot a coulé,
 Am                G               F                 E7
 Le fermier apprend que l'enfant s'est noyééééé... (miaou !)
 
-[Refrain : Mais le matou revient...]
+[🪕 Refrain]
 
 [Couplet 3 — La dynamite]
 Am                 G        F              E7
@@ -72,7 +72,7 @@ Am                     G            F               E7
 Une pluie d'petits morceaux d'homme vient de tomber !
 (parlé) : Tiens ! Un doigt ! Oh ! Un genou ! Hum ! Un œil !
 
-[Refrain : Mais le matou revient...]
+[🪕 Refrain]
 
 [Couplet 4 — Le boucher]
 Am                 G          F                E7
@@ -84,7 +84,7 @@ Le chat hurle et disparaît dans la machine...
 Am               G            F                  E7
 « De la viande poilue » est affiché sur la vitrine !
 
-[Refrain : Mais le matou revient...]
+[🪕 Refrain]
 
 [Couplet 5 — Le ballon]
 Am              G          F            E7

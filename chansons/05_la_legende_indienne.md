@@ -53,7 +53,7 @@ Hier, j’ai mêlé pour toujours mon sang à celui de son amour,
     Am               G                                  Am
 Et, sous la lune, les sorciers ont mené la danse des guerriers.
 
-[Refrain : Par la voix du grand Esprit...]
+[🪕 Refrain]
 
 [Couplet 3]
        Am              G                                  Am
@@ -61,7 +61,7 @@ Quand le tamtam s’arrêtera, sous la tente, on les laissera.
        Am              G                               Am
 Dans ses bras, la jeune épousée tendrement va se reposer.
 
-[Refrain : Par la voix du grand Esprit...]
+[🪕 Refrain]
 
 [Couplet 4 & Final]
      Am                  G                                        Am

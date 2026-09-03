@@ -99,7 +99,7 @@ J'ai lu Sartre comme de raison,
         Am        E7    Am
 Simone était mon opinion.
 
-[Refrain : Je n'aime que la nuit...]
+[🪕 Refrain]
 
 [Couplet 3]
           Am               Dm

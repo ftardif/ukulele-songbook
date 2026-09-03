@@ -83,7 +83,7 @@ Avec la meute j'deviens plus grand
              (stop)
 La force du loup, c'est le clan !
 
-[Refrain : Ensemble on est mieux...]
+[🪕 Refrain]
 
 [Couplet 3 — Les Éclaireurs]
         Em
@@ -103,7 +103,7 @@ On construit même nos pilotis
           B7
 À bout de bras et d'énergie !
 
-[Refrain : Ensemble on est mieux...]
+[🪕 Refrain]
 
 [Couplet 4 — Les Pionniers / Pi's]
                   Em

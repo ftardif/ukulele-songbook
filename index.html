@@ -356,6 +356,43 @@
         color: inherit !important;
       }
     }
+
+    /* Refrain Callout Box & In-Song Tags (Harmonized Green) */
+    .refrain-box {
+      padding: 6px 12px;
+      background: #f0fdf4;
+      border-left: 4px solid #16a34a;
+      border-radius: 4px;
+      margin-bottom: 8px;
+    }
+    .refrain-box .refrain-title {
+      color: #15803d;
+      font-weight: 800;
+      font-size: 7.2pt;
+      text-transform: uppercase;
+      letter-spacing: 0.5px;
+      margin-bottom: 3px;
+    }
+    .refrain-box pre {
+      font-family: 'Fira Code', 'Roboto Mono', monospace;
+      font-size: 7.6pt;
+      line-height: 1.35;
+      color: #0f172a;
+      margin: 0;
+      white-space: pre;
+    }
+    .refrain-tag {
+      display: inline-block;
+      color: #15803d;
+      background: #dcfce7;
+      border-left: 3px solid #16a34a;
+      padding: 1px 6px;
+      font-weight: 700;
+      font-size: 7.2pt;
+      border-radius: 2px;
+      margin: 4px 0 2px 0;
+      font-family: 'Fira Code', 'Roboto Mono', monospace;
+    }
 </style>
 </head>
 
@@ -898,14 +935,12 @@ Allons dans le vent !
       </div>
     </div>
 
-    <div style="padding: 6px 12px; background: #fffbeb; border-left: 4px solid #f59e0b; border-radius: 4px; margin-bottom: 8px; font-size: 8pt; display: flex; justify-content: space-between; align-items: center;">
-      <div>
-        <strong style="color: #b45309; text-transform: uppercase; font-size: 7pt; display: block;">🌟 Refrain récurrent (après chaque couplet)</strong>
-        <div style="font-family: 'Fira Code', monospace; font-size: 8pt; line-height: 1.45;">
-          <strong style="color: #dc2626;">C</strong> Oh! Laissez-moi aller aller,<br>
-          <strong style="color: #dc2626;">G</strong> Laissez-moi aller jouer <strong style="color: #dc2626;">C</strong>
-        </div>
-      </div>
+    <div class="refrain-box">
+      <div class="refrain-title">🌟 Refrain récurrent (après chaque couplet)</div>
+      <pre><span class="ch">C</span>
+Oh ! Laissez-moi aller aller,
+<span class="ch">G                           C</span>
+Laissez-moi aller jouer dehors !  (bis)</pre>
     </div>
 
     <div class="song-content" style="display: flex; gap: 14px; font-size: 7.5pt; line-height: 1.25;">
@@ -1053,17 +1088,15 @@ mon histoire de mensonges.
       </div>
     </div>
 
-    <div style="padding: 6px 12px; background: #ecfdf5; border-left: 4px solid #10b981; border-radius: 4px; margin-bottom: 8px; font-size: 8pt; display: flex; justify-content: space-between; align-items: center;">
-      <div>
-        <strong style="color: #047857; text-transform: uppercase; font-size: 7pt; display: block;">🌟 Refrain récurrent (après chaque couplet)</strong>
-        <div style="font-family: 'Fira Code', monospace; font-size: 8pt; line-height: 1.45;">
-          <strong style="color: #dc2626;">Am</strong> Avri di da di da di di dum <strong style="color: #dc2626;">G</strong> dum di da di da da<br>
-          <strong style="color: #dc2626;">Em</strong> da di di da di <strong style="color: #dc2626;">Am</strong> <span style="font-size: 7pt; color: #047857; font-weight: bold;">(x2)</span>
-        </div>
-      </div>
+    <div class="refrain-box">
+      <div class="refrain-title">🌟 Refrain récurrent (après chaque couplet)</div>
+      <pre><span class="ch">Am                            G</span>
+Avri di da di da di di dum, dum di da di da da,
+<span class="ch">Em                             Am</span>
+Da di da da dum dum di da di da da !</pre>
     </div>
 
-        <div class="song-content" style="display: flex; gap: 14px; font-size: 7.5pt; line-height: 1.25;">
+    <div class="song-content" style="display: flex; gap: 14px; font-size: 7.5pt; line-height: 1.25;">
       <div class="song-column" style="flex: 1;">
         <div class="section-title">Couplets 1 &amp; 2</div>
         <pre class="chord-sheet" style="font-size: 7.5pt; line-height: 1.25;">
@@ -1087,7 +1120,7 @@ On vit rien qu’au printemps,
      <span class="ch">Am</span>
 l’printemps dure pas longtemps.
 
-<span class="ch">[Refrain : Avri di da di da di di dum...]</span>
+<span class="refrain-tag">[🪕 Refrain]</span>
 
 <span class="ch">[Couplet 2]</span>
 <span class="ch">Am</span>
@@ -1166,7 +1199,7 @@ Imaginez l’printemps
                    <span class="ch">Am</span>
 quand l’hiver s’ra vraiment blanc !
 
-<span class="ch">[Refrain Final (x4)]</span>
+<span class="refrain-tag">[🪕 Refrain Final]</span>
            <span class="ch">Am</span>          <span class="ch">G</span>
 Avri di da di da di di dum
                    <span class="ch">Em</span>          <span class="ch">Am</span>
@@ -1208,14 +1241,16 @@ dum di da di da da da di di da di  (x4)
       </div>
     </div>
 
-    <div style="padding: 6px 12px; background: #ecfeff; border-left: 4px solid #06b6d4; border-radius: 4px; margin-bottom: 8px; font-size: 8pt; display: flex; justify-content: space-between; align-items: center;">
-      <div>
-        <strong style="color: #0e7490; text-transform: uppercase; font-size: 7pt; display: block;">🌟 Refrain énergique (à entonner tous ensemble !)</strong>
-        <div style="font-family: 'Fira Code', monospace; font-size: 8pt; line-height: 1.45;">
-          <strong style="color: #dc2626;">Em</strong> Tiens bon la vague et tiens bon le vent, hissez haut ! Sant<strong style="color: #dc2626;">D</strong>iano !<br>
-          <strong style="color: #dc2626;">Am</strong> Si Dieu veut, toujours <strong style="color: #dc2626;">D</strong>droit devant, nous <strong style="color: #dc2626;">Em</strong>irons ju<strong style="color: #dc2626;">D</strong>squ'à San <strong style="color: #dc2626;">Em</strong>Francisco !
-        </div>
-      </div>
+    <div class="refrain-box">
+      <div class="refrain-title">🌟 Refrain énergique (à entonner tous ensemble !)</div>
+      <pre><span class="ch">Em</span>
+Tiens bon la vague et tiens bon le vent,
+           <span class="ch">D</span>
+Hissez haut ! Santiano !
+<span class="ch">Em                    Am</span>
+Si Dieu veut, toujours droit devant,
+            <span class="ch">Em         D           Em</span>
+Nous irons jusqu'à San Francisco !</pre>
     </div>
 
     <div class="song-content" style="display: flex; gap: 14px; font-size: 7.8pt; line-height: 1.3;">
@@ -1234,7 +1269,7 @@ Dix-huit nœuds, quatre cents tonneaux,
         <span class="ch">Em</span>      <span class="ch">D</span>     <span class="ch">Em</span>
 Je suis fier d'y être matelot.
 
-<span class="ch">[Refrain]</span>
+<span class="refrain-tag">[🪕 Refrain]</span>
 <span class="ch">Em</span>                                    <span class="ch">D</span>
 Tiens bon la vague et tiens bon le vent,
 <span class="ch">Em</span>              <span class="ch">D</span>
@@ -1269,7 +1304,7 @@ On trouve l'or au fond des ruisseaux,
         <span class="ch">Em</span>      <span class="ch">D</span>          <span class="ch">Em</span>
 J'en ramènerai plusieurs lingots.
 
-<span class="ch">[Refrain : Tiens bon la vague...]</span>
+<span class="refrain-tag">[🪕 Refrain]</span>
 
 <span class="ch">[Couplet 4]</span>
 <span class="ch">Em</span>                                   <span class="ch">D</span>
@@ -1281,7 +1316,7 @@ Au pays j'irai voir Margot,
       <span class="ch">Em</span>         <span class="ch">D</span>          <span class="ch">Em</span>
 À son doigt je passerai l'anneau.
 
-<span class="ch">[Refrain Final]</span>
+<span class="refrain-tag">[🪕 Refrain Final]</span>
 <span class="ch">Em</span>                                 <span class="ch">D</span>
 Tiens bon le cap et tiens bon le flot,
 <span class="ch">Em</span>                           <span class="ch">D</span>
@@ -1326,14 +1361,17 @@ Nous irons jusqu'à San Francisco !
       </div>
     </div>
 
-    <div style="padding: 6px 12px; background: #eff6ff; border-left: 4px solid #3b82f6; border-radius: 4px; margin-bottom: 8px; font-size: 8pt; display: flex; justify-content: space-between; align-items: center;">
-      <div>
-        <strong style="color: #1d4ed8; text-transform: uppercase; font-size: 7pt; display: block;">🌟 Refrain (après chaque couplet)</strong>
-        <div style="font-family: 'Fira Code', monospace; font-size: 8pt; line-height: 1.45;">
-          Par la voix du grand Esprit, l'oi<strong style="color: #dc2626;">C</strong>seau sauvage a pous<strong style="color: #dc2626;">G</strong>sé son cri...<br>
-          <strong style="color: #dc2626;">Am</strong> Vole, vole, vole mon cœur va bien haut, je <strong style="color: #dc2626;">C</strong>suis le frère de <strong style="color: #dc2626;">G</strong>cet oi<strong style="color: #dc2626;">Am</strong>seau !
-        </div>
-      </div>
+    <div class="refrain-box">
+      <div class="refrain-title">🌟 Refrain (après chaque couplet)</div>
+      <pre>Par la voix du grand Esprit,
+          <span class="ch">C                   G</span>
+L'oiseau sauvage a poussé son cri,
+          <span class="ch">Am                  G</span>
+L'oiseau sauvage a poussé son cri,
+          <span class="ch">Am                  C</span>
+Par la voix du grand Esprit,
+<span class="ch">G                         Am</span>
+L'oiseau sauvage a poussé son cri !</pre>
     </div>
 
     <div class="song-content" style="display: flex; gap: 14px; font-size: 7.8pt; line-height: 1.28;">
@@ -1352,7 +1390,7 @@ On aurait dit qu’il s’en allait,
                            <span class="ch">Am</span>
 mais je sais bien qu’il m’appelait.
 
-<span class="ch">[Refrain]</span>
+<span class="refrain-tag">[🪕 Refrain]</span>
  <span class="ch">Am</span>                          <span class="ch">C</span>
 Par la voix du grand Esprit,
                   <span class="ch">G</span>
@@ -1376,7 +1414,7 @@ Et, sous la lune, les sorciers
                           <span class="ch">Am</span>
 ont mené la danse des guerriers.
 
-<span class="ch">[Refrain : Par la voix du grand Esprit...]</span>
+<span class="refrain-tag">[🪕 Refrain]</span>
         </pre>
       </div>
 
@@ -1393,7 +1431,7 @@ Dans ses bras, la jeune épousée
                    <span class="ch">Am</span>
 tendrement va se reposer.
 
-<span class="ch">[Refrain : Par la voix du grand Esprit...]</span>
+<span class="refrain-tag">[🪕 Refrain]</span>
 
 <span class="ch">[Couplet 4 &amp; Final]</span>
      <span class="ch">Am</span>                  <span class="ch">G</span>
@@ -1405,7 +1443,7 @@ Avec l’oiseau, je serai parti ;
                              <span class="ch">Am</span>
 comme l’oiseau, j’aurai quitté mon nid.
 
-<span class="ch">[Refrain Final]</span>
+<span class="refrain-tag">[🪕 Refrain Final]</span>
  <span class="ch">Am</span>                          <span class="ch">C</span>
 Par la voix du grand Esprit,
                   <span class="ch">G</span>
@@ -1455,14 +1493,16 @@ kao kao kao ha ... Kao kao kao ha !
       </div>
     </div>
 
-    <div style="padding: 6px 12px; background: #f0fdfa; border-left: 4px solid #0d9488; border-radius: 4px; margin-bottom: 8px; font-size: 8pt; display: flex; justify-content: space-between; align-items: center;">
-      <div>
-        <strong style="color: #0f766e; text-transform: uppercase; font-size: 7pt; display: block;">🌟 Refrain (après chaque couplet)</strong>
-        <div style="font-family: 'Fira Code', monospace; font-size: 8pt; line-height: 1.45;">
-          <strong style="color: #dc2626;">Am</strong> Lady, <strong style="color: #dc2626;">G</strong> running down to the <strong style="color: #dc2626;">C</strong> riptide,<br>
-          taken away to the <strong style="color: #dc2626;">Am</strong> dark side, <strong style="color: #dc2626;">G</strong> I wanna be your <strong style="color: #dc2626;">C</strong> left hand man...
-        </div>
-      </div>
+    <div class="refrain-box">
+      <div class="refrain-title">🌟 Refrain (après chaque couplet)</div>
+      <pre><span class="ch">Am             G                     C</span>
+Lady, running down to the riptide, taken away to the dark side,
+<span class="ch">Am         G           C</span>
+I wanna be your left hand man.
+<span class="ch">Am                    G                     C</span>
+I love you when you're singing that song and I got a lump in my throat 'cause
+<span class="ch">Am               G             C</span>
+You're gonna sing the words wrong.</pre>
     </div>
 
     <div class="song-content" style="display: flex; gap: 16px; font-size: 8pt; line-height: 1.3;">
@@ -1518,7 +1558,7 @@ I swear she's destined for the screen
 <span class="ch">Am               G                 C</span>
 Closest thing to Michelle Pfeiffer that you've seen
 
-<span class="ch">[Refrain final]</span>
+<span class="refrain-tag">[🪕 Refrain]</span>
 <span class="ch">Am    G                   C</span>
 Lady, running down to the riptide, taken away
        <span class="ch">Am         G               C</span>
@@ -1567,14 +1607,16 @@ In my throat, 'cause you're gonna sing the words wrong !
       </div>
     </div>
 
-    <div style="padding: 6px 12px; background: #faf5ff; border-left: 4px solid #a855f7; border-radius: 4px; margin-bottom: 8px; font-size: 8pt; display: flex; justify-content: space-between; align-items: center;">
-      <div>
-        <strong style="color: #7e22ce; text-transform: uppercase; font-size: 7pt; display: block;">🌟 Refrain emblématique</strong>
-        <div style="font-family: 'Fira Code', monospace; font-size: 8pt; line-height: 1.45;">
-          <strong style="color: #dc2626;">Am</strong> Mais au bout du ch'min dis-moi c'qui va <strong style="color: #dc2626;">G</strong>rester de la p'tite école et d'la cour de ré<strong style="color: #dc2626;">F</strong>cré ?<br>
-          <strong style="color: #dc2626;">Am</strong> On se dit que l'bon temps passe finale<strong style="color: #dc2626;">F</strong>ment... comme une étoile fi<strong style="color: #dc2626;">Am</strong>lante !
-        </div>
-      </div>
+    <div class="refrain-box">
+      <div class="refrain-title">🌟 Refrain emblématique</div>
+      <pre><span class="ch">Am                             G</span>
+Mais au bout du ch'min dis-moi c'qui va rester,
+                               <span class="ch">F</span>
+De la p'tite école et d'la cour de récré ?
+<span class="ch">Em                                Am</span>
+Du temps qu'on avait l'cœur à la bonne place,
+<span class="ch">G                                   F</span>
+Et de nos vieux rêves de moins en moins vivaces ?</pre>
     </div>
 
     <div class="song-content" style="display: flex; gap: 14px; font-size: 7.1pt; line-height: 1.18;">
@@ -1617,7 +1659,7 @@ Et rentrer les pieds g'lés
 <span class="ch">Em</span>                  <span class="ch">F</span>
 Juste à temps pour Passe-Partout
 
-<span class="ch">[Refrain 1]</span>
+<span class="refrain-tag">[🪕 Refrain]</span>
 <span class="ch">Am</span>                                 <span class="ch">G</span>
 Mais au bout du ch'min, dis-moi c'qui va rester
 <span class="ch">Em</span>                                   <span class="ch">F</span>
@@ -1670,7 +1712,7 @@ Et espérer être heureux
 <span class="ch">Em</span>                <span class="ch">F</span>
 Un peu avant de mourir
 
-<span class="ch">[Refrain 2]</span>
+<span class="refrain-tag">[🪕 Refrain]</span>
 <span class="ch">Am</span>                                 <span class="ch">G</span>
 Mais au bout du ch'min, dis-moi c'qui va rester
 <span class="ch">Em</span>                             <span class="ch">F</span>
@@ -1700,7 +1742,7 @@ La vie s'accroche et renaît
 <span class="ch">Em</span>                  <span class="ch">F</span>
 Comme les printemps reviennent
 
-<span class="ch">[Refrain 3 &amp; Outro]</span>
+<span class="refrain-tag">[🪕 Refrain]</span>
 <span class="ch">Am</span>                             <span class="ch">G</span>
 Ça fait que si à' soir t'as envie de rester
 <span class="ch">Em</span>                           <span class="ch">F</span>
@@ -1755,14 +1797,12 @@ Des étoiles filantes !
       </div>
     </div>
 
-    <div style="padding: 6px 12px; background: #fefce8; border-left: 4px solid #eab308; border-radius: 4px; margin-bottom: 8px; font-size: 8pt; display: flex; justify-content: space-between; align-items: center;">
-      <div>
-        <strong style="color: #a16207; text-transform: uppercase; font-size: 7pt; display: block;">🌟 Refrain humoristique (à chanter en chœur !)</strong>
-        <div style="font-family: 'Fira Code', monospace; font-size: 7.8pt; line-height: 1.45;">
-          <strong style="color: #dc2626;">Am</strong> Mais le matou re<strong style="color: #dc2626;">G</strong>vient le <strong style="color: #dc2626;">F</strong>jour sui<strong style="color: #dc2626;">E7</strong>vant !<br>
-          <strong style="color: #dc2626;">Am</strong> Le matou re<strong style="color: #dc2626;">G</strong>vient, il est <strong style="color: #dc2626;">F</strong>toujours vi<strong style="color: #dc2626;">E7</strong>vant ! (Miaou !)
-        </div>
-      </div>
+    <div class="refrain-box">
+      <div class="refrain-title">🌟 Refrain humoristique (à chanter en chœur !)</div>
+      <pre><span class="ch">Am             G       F                E7</span>
+Mais le matou revient le jour suivant,
+<span class="ch">Am             G       F             E7            Am</span>
+Le matou revient, il est toujours vivant !  (Miaou !)</pre>
     </div>
 
     <div class="song-content" style="display: flex; gap: 14px; font-size: 7.5pt; line-height: 1.22;">
@@ -1781,7 +1821,7 @@ Pour mettre à la porte son chat, il a tenté n'importe quoi,
 <span class="ch">Am</span>               <span class="ch">G</span>              <span class="ch">F</span>           <span class="ch">E7</span>
 Il l'a même posté au Canada et lui a dit : « Tu resteras là ! »
 
-<span class="ch">[Refrain]</span>
+<span class="refrain-tag">[🪕 Refrain]</span>
 <span class="ch">Am             G       F                E7</span>
 Mais le matou revient le jour suivant,
 <span class="ch">Am             G       F             E7</span>
@@ -1797,7 +1837,7 @@ Au milieu de la rivière, le canot a coulé,
 <span class="ch">Am</span>                <span class="ch">G</span>               <span class="ch">F</span>                 <span class="ch">E7</span>
 Le fermier apprend que l'enfant s'est noyééééé... (miaou !)
 
-<span class="ch">[Refrain : Mais le matou revient...]</span>
+<span class="refrain-tag">[🪕 Refrain]</span>
 
 <span class="ch">[Couplet 3 — La dynamite]</span>
 <span class="ch">Am</span>                 <span class="ch">G</span>        <span class="ch">F</span>              <span class="ch">E7</span>
@@ -1815,7 +1855,7 @@ Une pluie d'petits morceaux d'homme vient de tomber !
       <div class="song-column" style="flex: 1;">
         <div class="section-title">Le Boucher, Le Ballon &amp; Cap Kennedy</div>
         <pre class="chord-sheet" style="font-size: 7.5pt; line-height: 1.22;">
-<span class="ch">[Refrain : Mais le matou revient...]</span>
+<span class="refrain-tag">[🪕 Refrain]</span>
 
 <span class="ch">[Couplet 4 — Le boucher]</span>
 <span class="ch">Am</span>                 <span class="ch">G</span>          <span class="ch">F</span>                <span class="ch">E7</span>
@@ -1827,7 +1867,7 @@ Le chat hurle et disparaît dans la machine...
 <span class="ch">Am</span>               <span class="ch">G</span>            <span class="ch">F</span>                  <span class="ch">E7</span>
 « De la viande poilue » est affiché sur la vitrine !
 
-<span class="ch">[Refrain : Mais le matou revient...]</span>
+<span class="refrain-tag">[🪕 Refrain]</span>
 
 <span class="ch">[Couplet 5 — Le ballon]</span>
 <span class="ch">Am</span>              <span class="ch">G</span>          <span class="ch">F</span>            <span class="ch">E7</span>
@@ -1849,7 +1889,7 @@ Le fermier saute de joie, car il n'a plus de soucis...
 <span class="ch">Am</span>                    <span class="ch">G</span>          <span class="ch">F</span>                 <span class="ch">E7</span>
 Le lendemain matin... on l'appelle de Miami ! (Miaou !)
 
-<span class="ch">[Refrain Final (x2)]</span>
+<span class="refrain-tag">[🪕 Refrain Final]</span>
 <span class="ch">Am             G       F                E7</span>
 Mais le matou revient le jour suivant,
 <span class="ch">Am             G       F             E7            Am (fin)</span>
@@ -1892,14 +1932,12 @@ Le matou revient, il est toujours vivant !  Miaou !
       </div>
     </div>
 
-    <div style="padding: 6px 10px; background: #fff1f2; border-left: 4px solid #f43f5e; border-radius: 4px; margin-bottom: 8px; font-size: 8pt; display: flex; justify-content: space-between; align-items: center;">
-      <div>
-        <strong style="color: #be123c; text-transform: uppercase; font-size: 7pt; display: block;">🌟 Refrain énergique (à entonner en chœur !)</strong>
-        <div style="font-family: 'Fira Code', monospace; font-size: 7.8pt; line-height: 1.45;">
-          <strong style="color: #dc2626;">C</strong> À boire, à boire ! J'ai la gorge en <strong style="color: #dc2626;">F</strong>feu <strong style="color: #dc2626;">C</strong> ! <strong style="color: #dc2626;">Am</strong> À boire, à boire ! Pour les couples malheu<strong style="color: #dc2626;">G</strong>reux !<br>
-          <strong style="color: #dc2626;">C</strong> À boire, à boire ! Juste un dernier coup la <strong style="color: #dc2626;">Am</strong>grande, je me <strong style="color: #dc2626;">F</strong>suis eng<strong style="color: #dc2626;">C</strong>agé dans la <strong style="color: #dc2626;">G</strong>marine mar<strong style="color: #dc2626;">C</strong>chande !
-        </div>
-      </div>
+    <div class="refrain-box">
+      <div class="refrain-title">🌟 Refrain énergique (à entonner en chœur !)</div>
+      <pre><span class="ch">C                              F       C</span>
+À boire, à boire ! J'ai la gorge en feu !
+<span class="ch">Am                             G       C</span>
+À boire, à boire ! Pour le gars qui a soif !  (bis)</pre>
     </div>
 
     <div class="song-content" style="display: flex; gap: 14px; font-size: 7.1pt; line-height: 1.20;">
@@ -1938,7 +1976,7 @@ Alors oui, j'ai signé pour pu' te r'voir la grande !
       <span class="ch">G</span>
 Je me suis engagé dans la marine marchande !
 
-<span class="ch">[Refrain 1]</span>
+<span class="refrain-tag">[🪕 Refrain]</span>
 <span class="ch">C                                     F          C</span>
 À boire, à boire, à boire, à boire ! J'ai la gorge en feu !
 <span class="ch">Am                            G</span>
@@ -1976,7 +2014,7 @@ D'une bouteille de whisky, c't'à cause de toi salaud !
       <div class="song-column" style="flex: 1;">
         <div class="section-title">La Dysenterie, Djibouti &amp; Chute Finale</div>
         <pre class="chord-sheet" style="font-size: 7.1pt; line-height: 1.20;">
-<span class="ch">[Refrain 2]</span>
+<span class="refrain-tag">[🪕 Refrain]</span>
 <span class="ch">C                                     F          C</span>
 À boire, à boire, à boire, à boire ! J'ai la gorge en feu !
 <span class="ch">Am                            G</span>
@@ -2025,7 +2063,7 @@ Chu en bonne compagnie avec la voisine d'en haut
           <span class="ch">G</span>
 Qui chaque soir dans not' lit te garde la place au chaud !
 
-<span class="ch">[Refrain 4 &amp; Final]</span>
+<span class="refrain-tag">[🪕 Refrain]</span>
 <span class="ch">C                                     F          C</span>
 À boire, à boire, à boire, à boire ! J'ai la gorge en feu !
 <span class="ch">Am                            G</span>
@@ -2073,14 +2111,16 @@ Oui, j'me suis engagé dans la marine marchande !
       </div>
     </div>
 
-    <div style="padding: 6px 12px; background: #fefce8; border-left: 4px solid #eab308; border-radius: 4px; margin-bottom: 8px; font-size: 8pt; display: flex; justify-content: space-between; align-items: center;">
-      <div>
-        <strong style="color: #a16207; text-transform: uppercase; font-size: 7pt; display: block;">🌟 Refrain emblématique (Groove détendu)</strong>
-        <div style="font-family: 'Fira Code', monospace; font-size: 8pt; line-height: 1.45;">
-          <strong style="color: #dc2626;">C</strong> But I won't hesitate <strong style="color: #dc2626;">G</strong> no more, no more, it cannot wait...<br>
-          <strong style="color: #dc2626;">Am</strong> I'm sure, there's no need to complicate, our time is short, this is our fate: <strong style="color: #dc2626;">F</strong> I'm yours !
-        </div>
-      </div>
+    <div class="refrain-box">
+      <div class="refrain-title">🌟 Refrain emblématique (Groove détendu)</div>
+      <pre><span class="ch">C</span>
+So I won't hesitate
+     <span class="ch">G</span>
+No more, no more.
+        <span class="ch">Am</span>
+It cannot wait,
+           <span class="ch">F</span>
+I'm yours !</pre>
     </div>
 
     <div class="song-content" style="display: flex; gap: 14px; font-size: 7.4pt; line-height: 1.25;">
@@ -2110,7 +2150,7 @@ I reckon it's again my turn
    <span class="ch">F</span>
 To win some or learn some
 
-<span class="ch">[Refrain]</span>
+<span class="refrain-tag">[🪕 Refrain]</span>
     <span class="ch">C         G</span>
 But I won't hesitate
      <span class="ch">Am             F</span>
@@ -2140,7 +2180,7 @@ To be loved, loved, loved !
       <div class="song-column" style="flex: 1;">
         <div class="section-title">Refrain 2, Couplet 3 &amp; Final</div>
         <pre class="chord-sheet" style="font-size: 7.4pt; line-height: 1.25;">
-<span class="ch">[Refrain 2]</span>
+<span class="refrain-tag">[🪕 Refrain]</span>
    <span class="ch">C          G</span>
 So I won't hesitate
      <span class="ch">Am             F</span>
@@ -2174,7 +2214,7 @@ It's what we aim to do,
     <span class="ch">F</span>
 Our name is our virtue
 
-<span class="ch">[Refrain Final &amp; Outro]</span>
+<span class="refrain-tag">[🪕 Refrain Final]</span>
     <span class="ch">C         G</span>
 But I won't hesitate
      <span class="ch">Am             F</span>
@@ -2227,14 +2267,16 @@ It cannot wait... I'm yours !
       </div>
     </div>
 
-    <div style="padding: 6px 10px; background: #fff7ed; border-left: 4px solid #f97316; border-radius: 4px; margin-bottom: 8px; font-size: 8pt; display: flex; justify-content: space-between; align-items: center;">
-      <div>
-        <strong style="color: #c2410c; text-transform: uppercase; font-size: 7pt; display: block;">🌟 Refrain (après chaque couplet)</strong>
-        <div style="font-family: 'Fira Code', monospace; font-size: 7.8pt; line-height: 1.45;">
-          <strong style="color: #dc2626;">G</strong> Et les voilà partis, de <strong style="color: #dc2626;">Em</strong> villages en villages, <strong style="color: #dc2626;">Am7</strong> sous le soleil d’été, pour ce <strong style="color: #dc2626;">D7</strong> long voyage...<br>
-          <strong style="color: #dc2626;">G</strong> Les ancres sont levées, <strong style="color: #dc2626;">Em</strong> les voiles sont gonflées, <strong style="color: #dc2626;">Am7</strong> vous les verrez passer, <strong style="color: #dc2626;">D7</strong> les aven<strong style="color: #dc2626;">G</strong>turiers !
-        </div>
-      </div>
+    <div class="refrain-box">
+      <div class="refrain-title">🌟 Refrain (après chaque couplet)</div>
+      <pre><span class="ch">G                      Em</span>
+Et les voilà partis, de villages en villages,
+<span class="ch">Am7                    D7</span>
+Sous le soleil d’été, pour chanter et marcher !
+<span class="ch">G                      Em</span>
+Et les voilà partis, de villages en villages,
+<span class="ch">Am7                    D7          G</span>
+Le cœur rempli de joie et de liberté !</pre>
     </div>
 
     <div class="song-content" style="display: flex; gap: 16px; font-size: 8pt; line-height: 1.32;">
@@ -2257,7 +2299,7 @@ Qu’un jour enfin ils pourraient naviguer
          <span class="ch">Am7</span>                       <span class="ch">D7</span>
 Voir des pays, des tempêtes et des quais
 
-<span class="ch">[Refrain]</span>
+<span class="refrain-tag">[🪕 Refrain]</span>
     <span class="ch">G</span>           <span class="ch">Em</span>      <span class="ch">Am7</span>            <span class="ch">D7</span>
 Et les voilà partis, de villages en villages
      <span class="ch">G</span>           <span class="ch">Em</span>           <span class="ch">Am7</span>    <span class="ch">D7</span>
@@ -2302,7 +2344,7 @@ Vivront alors la plus grande aventure
          <span class="ch">Am7</span>                       <span class="ch">D7</span>
 Vivre sa vie, du vent plein les voilures
 
-<span class="ch">[Refrain final]</span>
+<span class="refrain-tag">[🪕 Refrain]</span>
      <span class="ch">G</span>             <span class="ch">Em</span>       <span class="ch">Am7</span> <span class="ch">D7</span>  <span class="ch">G (fin)</span>
 Vous les verrez passer, les aventuriers !
         </pre>
@@ -2344,14 +2386,16 @@ Vous les verrez passer, les aventuriers !
       </div>
     </div>
 
-    <div style="padding: 6px 12px; background: #fef2f2; border-left: 4px solid #ef4444; border-radius: 4px; margin-bottom: 8px; font-size: 8pt; display: flex; justify-content: space-between; align-items: center;">
-      <div>
-        <strong style="color: #b91c1c; text-transform: uppercase; font-size: 7pt; display: block;">🌟 Refrain énergique (autour du feu !)</strong>
-        <div style="font-family: 'Fira Code', monospace; font-size: 7.8pt; line-height: 1.45;">
-          <strong style="color: #dc2626;">Em</strong> Ensemble on est mieux, on a du <strong style="color: #dc2626;">C</strong>mal à s'dire adieu !<br>
-          Les scouts nous <strong style="color: #dc2626;">G</strong>portent, nous transportent, nous font <strong style="color: #dc2626;">B7</strong>danser comme le <strong style="color: #dc2626;">Em</strong>feu !
-        </div>
-      </div>
+    <div class="refrain-box">
+      <div class="refrain-title">🌟 Refrain énergique (autour du feu !)</div>
+      <pre><span class="ch">Em                              C</span>
+Ensemble on est mieux, on a du mal à s'dire adieu !
+      <span class="ch">Am                               B7</span>
+Les scouts chantent en chœur sous les étoiles dans les yeux.
+<span class="ch">Em                              C</span>
+Ensemble on est mieux, le cœur léger et chaleureux,
+       <span class="ch">Am              B7          Em</span>
+C'est ça la magie du grand feu de camp !</pre>
     </div>
 
     <div class="song-content" style="display: flex; gap: 14px; font-size: 7.1pt; line-height: 1.18;">
@@ -2378,7 +2422,7 @@ Mais la ribambelle m'ouvre la porte
          <span class="ch">B7</span>
 Et au final le rire m'emporte !
 
-<span class="ch">[Refrain]</span>
+<span class="refrain-tag">[🪕 Refrain]</span>
    <span class="ch">Em</span>
 Ensemble on est mieux
           <span class="ch">C</span>
@@ -2429,7 +2473,7 @@ On construit même nos pilotis
           <span class="ch">B7</span>
 À bout de bras et d'énergie !
 
-<span class="ch">[Refrain : Ensemble on est mieux...]</span>
+<span class="refrain-tag">[🪕 Refrain]</span>
 
 <span class="ch">[Couplet 4 — Les Pionniers / Pi's]</span>
                   <span class="ch">Em</span>
@@ -2467,7 +2511,7 @@ Baden-Powell est fier de toi
              <span class="ch">B7 (stop)</span>
 Chante avec moi et lève trois doigts !
 
-<span class="ch">[Refrain Final (x2)]</span>
+<span class="refrain-tag">[🪕 Refrain Final]</span>
    <span class="ch">Em</span>                             <span class="ch">C</span>
 Ensemble on est mieux, on a du mal à s'dire adieu
              <span class="ch">G</span>                         <span class="ch">B7             Em (fin)</span>
@@ -2510,14 +2554,16 @@ Les scouts nous portent, nous font danser comme le feu !
       </div>
     </div>
 
-    <div style="padding: 6px 12px; background: #fff7ed; border-left: 4px solid #f97316; border-radius: 4px; margin-bottom: 8px; font-size: 8pt; display: flex; justify-content: space-between; align-items: center;">
-      <div>
-        <strong style="color: #c2410c; text-transform: uppercase; font-size: 7pt; display: block;">🌟 Refrain récurrent (à chanter vivement !)</strong>
-        <div style="font-family: 'Fira Code', monospace; font-size: 7.8pt; line-height: 1.45;">
-          <strong style="color: #dc2626;">Dm</strong> Fendez le <strong style="color: #dc2626;">C</strong>bois, chauf<strong style="color: #dc2626;">A</strong>fez le <strong style="color: #dc2626;">Dm</strong>four !<br>
-          Dormez la <strong style="color: #dc2626;">C</strong>belle, il n'<strong style="color: #dc2626;">A</strong>est point <strong style="color: #dc2626;">Dm</strong>jour !
-        </div>
-      </div>
+    <div class="refrain-box">
+      <div class="refrain-title">🌟 Refrain récurrent (à chanter vivement !)</div>
+      <pre><span class="ch">Dm          C            A           Dm</span>
+Fendez le bois, chauffez le four !
+<span class="ch">Dm          C            A           Dm</span>
+Dormez la belle, il n'est point jour !
+<span class="ch">F           C            Dm          A</span>
+Fendez le bois, chauffez le four !
+<span class="ch">Dm          C            Dm</span>
+Dormez la belle, il n'est point jour !</pre>
     </div>
 
     <div class="song-content" style="display: flex; gap: 14px; font-size: 7.5pt; line-height: 1.25;">
@@ -2532,7 +2578,7 @@ Les scouts nous portent, nous font danser comme le feu !
               <span class="ch">F</span>   <span class="ch">C</span>  <span class="ch">F</span>             <span class="ch">Em</span>    <span class="ch">Dm</span>   <span class="ch">A</span>
 J'ai trouvé l'eau si belle que je m'y suis baigné.
 
-<span class="ch">[Refrain]</span>
+<span class="refrain-tag">[🪕 Refrain]</span>
 <span class="ch">Dm            C      A          Dm</span>
 Fendez le bois, chauffez le four,
 <span class="ch">            C        A           Dm</span>
@@ -2544,7 +2590,7 @@ Sous les feuilles d'un chêne, je me suis fait sécher,
                  <span class="ch">F</span>   <span class="ch">C</span>   <span class="ch">F</span>            <span class="ch">Em</span>        <span class="ch">Dm</span>   <span class="ch">A</span>
 Sur la plus haute branche, le rossignol chantait.
 
-<span class="ch">[Refrain : Fendez le bois...]</span>
+<span class="refrain-tag">[🪕 Refrain]</span>
 
 <span class="ch">[Couplet 3]</span>
 <span class="ch">Dm</span>              <span class="ch">C</span>   <span class="ch">A</span>    <span class="ch">Dm</span>                <span class="ch">C</span>   <span class="ch">A</span>   <span class="ch">Dm</span>
@@ -2557,7 +2603,7 @@ Tu as le cœur à rire, moi je l'ai à pleurer.
       <div class="song-column" style="flex: 1;">
         <div class="section-title">Couplets 4, 5 &amp; Final</div>
         <pre class="chord-sheet" style="font-size: 7.5pt; line-height: 1.25;">
-<span class="ch">[Refrain : Fendez le bois...]</span>
+<span class="refrain-tag">[🪕 Refrain]</span>
 
 <span class="ch">[Couplet 4]</span>
 <span class="ch">Dm</span>             <span class="ch">C</span>   <span class="ch">A</span>    <span class="ch">Dm</span>           <span class="ch">C</span>   <span class="ch">A</span>   <span class="ch">Dm</span>
@@ -2565,7 +2611,7 @@ J'ai perdu ma maîtresse sans l'avoir mérité,
                   <span class="ch">F</span>   <span class="ch">C</span>  <span class="ch">F</span>           <span class="ch">Em</span>      <span class="ch">Dm</span>   <span class="ch">A</span>
 Pour un bouquet de roses que je lui refusai.
 
-<span class="ch">[Refrain : Fendez le bois...]</span>
+<span class="refrain-tag">[🪕 Refrain]</span>
 
 <span class="ch">[Couplet 5 &amp; Final]</span>
 <span class="ch">Dm</span>                <span class="ch">C</span>  <span class="ch">A</span>   <span class="ch">Dm</span>               <span class="ch">C</span>   <span class="ch">A</span>   <span class="ch">Dm</span>
@@ -2573,7 +2619,7 @@ Je voudrais que la rose fût encore au rosier,
                 <span class="ch">F</span>   <span class="ch">C</span>   <span class="ch">F</span>             <span class="ch">Em</span>     <span class="ch">Dm</span>   <span class="ch">A</span>
 Et moi et ma maîtresse dans les mêmes amitiés.
 
-<span class="ch">[Refrain Final (x2)]</span>
+<span class="refrain-tag">[🪕 Refrain Final]</span>
 <span class="ch">Dm            C      A          Dm</span>
 Fendez le bois, chauffez le four,
 <span class="ch">            C        A           Dm</span>
@@ -2620,14 +2666,24 @@ Dormez la belle, il n'est point jour !
       </div>
     </div>
 
-    <div style="padding: 6px 12px; background: #f1f5f9; border-left: 4px solid #475569; border-radius: 4px; margin-bottom: 8px; font-size: 8pt; display: flex; justify-content: space-between; align-items: center;">
-      <div>
-        <strong style="color: #334155; text-transform: uppercase; font-size: 7pt; display: block;">🌟 Refrain existentialiste</strong>
-        <div style="font-family: 'Fira Code', monospace; font-size: 7.8pt; line-height: 1.45;">
-          Je n'aime que la <strong style="color: #dc2626;">Am</strong>nuit, je n'aime que le <strong style="color: #dc2626;">Dm</strong>soir, j'aime aussi le <strong style="color: #dc2626;">G7</strong>gris on dirait qu'il est <strong style="color: #dc2626;">C</strong>noir...<br>
-          J'aime la pé<strong style="color: #dc2626;">Am</strong>nombre qui fait vivre mon <strong style="color: #dc2626;">Dm</strong>ombre, mon ombre bien à <strong style="color: #dc2626;">E7</strong>moi avec mes idées <strong style="color: #dc2626;">Am</strong>noires !
-        </div>
-      </div>
+    <div class="refrain-box">
+      <div class="refrain-title">🌟 Refrain existentialiste</div>
+      <pre>     <span class="ch">E7            Am</span>
+Je n'aime que la nuit,
+                <span class="ch">Dm</span>
+Je n'aime que le soir,
+             <span class="ch">G7</span>
+J'aime aussi le gris,
+                    <span class="ch">C</span>
+On dirait qu'il est noir,
+            <span class="ch">Am</span>
+J'aime la pénombre
+                    <span class="ch">Dm</span>
+Qui fait vivre mon ombre,
+                   <span class="ch">E7</span>
+Mon ombre bien à moi
+                 <span class="ch">Am    E7</span>
+Avec mes idées noires !</pre>
     </div>
 
     <div class="song-content" style="display: flex; gap: 14px; font-size: 7.2pt; line-height: 1.20;">
@@ -2654,7 +2710,7 @@ J'écoute Brassens, Ferré, Ferrat,
          <span class="ch">Am</span>       <span class="ch">E7</span>      <span class="ch">Am</span>
 Brel et Gainsbourg et Barbara.
 
-<span class="ch">[Refrain]</span>
+<span class="refrain-tag">[🪕 Refrain]</span>
      <span class="ch">E7</span>            <span class="ch">Am</span>
 Je n'aime que la nuit,
                 <span class="ch">Dm</span>
@@ -2695,7 +2751,7 @@ Simone était mon opinion.
       <div class="song-column" style="flex: 1;">
         <div class="section-title">La Piaule, L'Idéal &amp; Final (Couplets 3 &amp; 4)</div>
         <pre class="chord-sheet" style="font-size: 7.2pt; line-height: 1.20;">
-<span class="ch">[Refrain : Je n'aime que la nuit...]</span>
+<span class="refrain-tag">[🪕 Refrain]</span>
 
 <span class="ch">[Couplet 3]</span>
           <span class="ch">Am</span>               <span class="ch">Dm</span>
@@ -2735,7 +2791,7 @@ Mais, pour ce faire, il faut s'aimer,
          <span class="ch">Am</span>        <span class="ch">E7</span>     <span class="ch">Am</span>
 Car attention, tout va sauter !
 
-<span class="ch">[Refrain Final]</span>
+<span class="refrain-tag">[🪕 Refrain Final]</span>
      <span class="ch">E7</span>            <span class="ch">Am</span>
 Je n'aime que la nuit,
                 <span class="ch">Dm</span>
@@ -2790,14 +2846,10 @@ Avec mes idées noires !
       </div>
     </div>
 
-    <div style="padding: 6px 12px; background: #fdf2f8; border-left: 4px solid #db2777; border-radius: 4px; margin-bottom: 8px; font-size: 8pt; display: flex; justify-content: space-between; align-items: center;">
-      <div>
-        <strong style="color: #9d174d; text-transform: uppercase; font-size: 7pt; display: block;">🌟 Refrain (après chaque couplet)</strong>
-        <div style="font-family: 'Fira Code', monospace; font-size: 8pt; line-height: 1.45;">
-          <strong style="color: #dc2626;">F</strong> Hallelujah, <strong style="color: #dc2626;">Am</strong> Hallelujah,<br>
-          <strong style="color: #dc2626;">F</strong> Hallelujah, <strong style="color: #dc2626;">C</strong> Halle-<strong style="color: #dc2626;">G</strong>lu-<strong style="color: #dc2626;">C</strong>jah...
-        </div>
-      </div>
+    <div class="refrain-box">
+      <div class="refrain-title">🌟 Refrain (après chaque couplet)</div>
+      <pre><span class="ch">F              Am       F              C      G   C  (G)</span>
+Hallelujah, Hallelujah, Hallelujah, Halle-lu-u-jah...</pre>
     </div>
 
     <div class="song-content" style="display: flex; gap: 16px; font-size: 8pt; line-height: 1.32;">
