@@ -28,7 +28,7 @@
 
 ---
 
-## 🎥 Recommandation Vidéo : La chaîne « Ben au Ukulélé » 😊
+## 🎥 Recommandation de tutoriels en ligne : La chaîne « Ben au Ukulélé » 😊
 > Tutoriels pas-à-pas, vidéos d'accompagnement (play-alongs) et conseils pratiques de la chaîne **Ben au Ukulélé** (`youtube.com/@benauukulele`) pour bien débuter, maîtriser les rythmiques et jouer facilement ses premiers morceaux au ukulélé.
 
 ---
