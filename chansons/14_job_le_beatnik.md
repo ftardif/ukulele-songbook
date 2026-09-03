@@ -6,21 +6,22 @@
 ## 📌 Informations & Repères
 - **Page :** 16
 - **Tonalité :** La mineur (Am)
-- **Rythmique (Strumming) :** `↓   ↓ ↑   ↑ ↓ ↑` *(Swing / Jazz Folk Beatnik)*
-- **Tempo :** Modéré et décontracté (~105 - 110 BPM)
+- **Progression d'accords :** Couplets : `Am — Dm — Am — E7` | Refrain : `E7 — Am — Dm — G7 — C — Am — Dm — E7 — Am`
+- **Rythmique (Strumming) :** `↓   ↓ ↑   ↑ ↓ ↑` *(Swing / Jazz Folk feutré)*
+- **Tempo :** ~110 BPM
 - **Mesure :** 4/4
 - **Accords :** 
   - `Am` `[2 0 0 0]` — Corde G frette 2
-  - `Dm` `[2 2 1 0]` — Cordes G(2), C(2), E(1)
-  - `E7` `[1 2 0 2]` — Cordes G(1), C(2), A(2)
-  - `G7` `[0 2 1 2]` — Cordes C(2), E(1), A(2)
+  - `Dm` `[2 2 1 0]` — Corde G(2), C(2), E(1)
+  - `E7` `[1 2 0 2]` — Corde G(1), C(2), A(2)
+  - `G7` `[0 2 1 2]` — Corde C(2), E(1), A(2)
   - `C` `[0 0 0 3]` — Corde A frette 3
 
 ---
 
 ## 🎼 Grille et Paroles
 
-### 🌟 Refrain (ambiance feutrée)
+### 🌟 Refrain existentialiste
 ```text
      E7            Am
 Je n'aime que la nuit,
@@ -63,23 +64,7 @@ J'écoute Brassens, Ferré, Ferrat,
          Am       E7      Am
 Brel et Gainsbourg et Barbara.
 
-[Refrain]
-     E7            Am
-Je n'aime que la nuit,
-                Dm
-Je n'aime que le soir,
-             G7
-J'aime aussi le gris,
-                    C
-On dirait qu'il est noir,
-            Am
-J'aime la pénombre
-                    Dm
-Qui fait vivre mon ombre,
-                   E7
-Mon ombre bien à moi
-                 Am    E7
-Avec mes idées noires !
+[🪕 Refrain]
 
 [Couplet 2]
             Am                 Dm
@@ -121,6 +106,8 @@ Tu peux le croire, c'est Job qui l'dit !
 
 [Intermède : Am | Dm | Am | Dm — Job... Job le beatnik !]
 
+[🪕 Refrain]
+
 [Couplet 4 & Message final]
             Am           Dm
 Mais, un beau jour, je partirai
@@ -139,21 +126,5 @@ Mais, pour ce faire, il faut s'aimer,
          Am        E7     Am
 Car attention, tout va sauter !
 
-[Refrain Final]
-     E7            Am
-Je n'aime que la nuit,
-                Dm
-Je n'aime que le soir,
-             G7
-J'aime aussi le gris,
-                    C
-On dirait qu'il est noir,
-            Am
-J'aime la pénombre
-                     Dm
-Qui fait briller mon ombre,
-                   E7
-Mon ombre bien à moi
-                 Am (fin)
-Avec mes idées noires !
+[🪕 Refrain Final (x2)]
 ```
