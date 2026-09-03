@@ -33,6 +33,13 @@
 
 ---
 
+---
+
+## 🌐 Cahier de Chant Disponible en Ligne
+> Retrouvez ce livret interactif, les accords cliquables, les diagrammes et les mises à jour régulières en ligne sur **[https://ftardif.github.io/ukulele-songbook/](https://ftardif.github.io/ukulele-songbook/)** (dépôt : `https://github.com/ftardif/ukulele-songbook`).
+
+---
+
 ## 📖 Théorie
 *Guide des correspondances anglo-saxon / français (C = Do, D = Ré, etc.), repère visuel d'accordage standard (G - C - E - A) et tableau complet de la grille des accords indispensables au ukulélé.*
 
