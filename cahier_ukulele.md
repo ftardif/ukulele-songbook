@@ -12,7 +12,7 @@
 | **3** | **Vent frais, vent du matin** | Traditionnel (Canon) | 2 accords : Am, Em |
 | **4** | **Histoire de mensonges** | Fred Pellerin | 2 accords : C, G |
 | **5** | **Heureux d’un printemps** | Paul Piché | 3 accords : Am, G, Em |
-| **6** | **Santiano** | Hugues Aufray | 3 accords : Am, G, Em |
+| **6** | **Santiano** | Hugues Aufray | 3 accords : Em, D, Am |
 | **7** | **La légende indienne** | Les Compagnons de la Chanson | 3 accords : Em, D, G |
 | **8** | **Riptide** | Vance Joy | 4 accords : Am, G, C, F |
 | **9** | **Les étoiles filantes** | Les Cowboys Fringants | 4 accords : Am, G, Em, F |
@@ -277,15 +277,14 @@ Imaginez l’printemps quand l’hiver s’ra vraiment blanc !
 
 ## 📌 Informations & Repères
 - **Page :** 6
-- **Tonalité :** La mineur (Am)
-- **Progression d'accords :** `Am — G — Em` *(Mêmes accords que Heureux d'un printemps !)*
-- **Rythmique (Strumming) :** `↓   ↓ ↑   ↑ ↓ ↑` *(Chant de marin / Entraînant)*
-- **Tempo :** Vif et rythmé (~115 - 120 BPM)
+- **Tonalité :** Mi mineur (Em)
+- **Rythmique (Strumming) :** `↓   ↓ ↑   ↑ ↓ ↑` *(Chant de marin entraînant)*
+- **Tempo :** Vif et rythmé (~140 BPM)
 - **Mesure :** 4/4
 - **Accords :** 
-  - `Am` `[2 0 0 0]` — Corde G frette 2
-  - `G` `[0 2 3 2]` — Corde C(2), A(2), E(3)
   - `Em` `[0 4 3 2]` — Escalier : A(2), E(3), C(4)
+  - `D` `[2 2 2 0]` — Corde G(2), C(2), E(2)
+  - `Am` `[2 0 0 0]` — Corde G frette 2
 
 ---
 
@@ -293,62 +292,80 @@ Imaginez l’printemps quand l’hiver s’ra vraiment blanc !
 
 ### 🌟 Refrain (après chaque couplet)
 ```text
-Am                     G
+Em                                    D
 Tiens bon la vague et tiens bon le vent
-Am                   Em
+Em              D
 Hissez haut ! Santiano !
-     Am                    G
+Am                     D
 Si Dieu veut, toujours droit devant
-Am                  Em      Am
+     Em       D           Em
 Nous irons jusqu'à San Francisco !
 ```
 
 ---
 
 ```text
-[Intro : Am | G | Em | Am (x2)]
+[Intro : Em | D | Em | D | Em]
 
-[Couplet 1]                                     [Couplet 3]
-       Am                    G                         Am                    G
-C'est un fameux trois-mâts, fin comme un oiseau On prétend que là-bas, l'argent coule à flots
-Am                   Em                         Am                   Em
-Hissez haut ! Santiano !                        Hissez haut ! Santiano !
-     Am                    G                          Am                   G
-Dix-huit nœuds, quatre cents tonneaux           On trouve l'or au fond des ruisseaux
-Am                 Em    Am                     Am                 Em    Am
-Je suis fier d'y être matelot                   J'en rapporterai plusieurs lingots
+[Couplet 1]
+Em                              D
+C'est un fameux trois-mâts, fin comme un oiseau
+Em              D
+Hissez haut ! Santiano !
+Am                   D
+Dix-huit nœuds, quatre cents tonneaux
+        Em      D     Em
+Je suis fier d'y être matelot
 
-[Refrain]                                       [Refrain]
-Am                     G                        Am                     G
-Tiens bon la vague et tiens bon le vent         Tiens bon la vague et tiens bon le vent
-Am                   Em                         Am                   Em
-Hissez haut ! Santiano !                        Hissez haut ! Santiano !
-     Am                    G                          Am                    G
-Si Dieu veut, toujours droit devant             Si Dieu veut, toujours droit devant
-Am                  Em      Am                  Am                  Em      Am
-Nous irons jusqu'à San Francisco !              Nous irons jusqu'à San Francisco !
+[Refrain]
+Em                                    D
+Tiens bon la vague et tiens bon le vent
+Em              D
+Hissez haut ! Santiano !
+Am                     D
+Si Dieu veut, toujours droit devant
+     Em       D           Em
+Nous irons jusqu'à San Francisco !
 
-[Couplet 2]                                     [Couplet 4]
-     Am                G                             Am               G
-Je pars pour de longs mois en laissant Margot   Un jour, je reviendrai chargé de cadeaux
-Am                   Em                         Am                   Em
-Hissez haut ! Santiano !                        Hissez haut ! Santiano !
-      Am                    G                          Am                G
-D'y penser, j'en ai le cœur gros                Au pays, j'épouserai Margot
-Am                  Em    Am                     Am                Em    Am
-En doublant les feux de Saint-Malo              Oui, j'épouserai la belle Margot
+[Couplet 2]
+Em                                   D
+Je pars pour de longs mois en laissant Margot
+Em              D
+Hissez haut ! Santiano !
+Am                   D
+D'y penser, j'avais le cœur gros
+     Em          D        Em
+En doublant les feux de Saint-Malo
 
-[Refrain]                                       [Refrain Final & Outro]
-                                                Am                     G
-                                                Tiens bon la vague et tiens bon le vent
-                                                Am                   Em
-                                                Hissez haut ! Santiano !
-                                                     Am                    G
-                                                Si Dieu veut, toujours droit devant
-                                                Am                  Em      Am
-                                                Nous irons jusqu'à San Francisco !
-                                                Am                  Em      Am (fin)
-                                                Nous irons jusqu'à San Francisco !
+[Couplet 3]
+Em                                  D
+On prétend que là-bas, l'argent coule à flots
+Em              D
+Hissez haut ! Santiano !
+Am                    D
+On trouve l'or au fond des ruisseaux
+        Em      D          Em
+J'en ramènerai plusieurs lingots
+
+[Couplet 4]
+Em                                   D
+Un jour, je reviendrai chargé de cadeaux
+Em              D
+Hissez haut ! Santiano !
+Am               D
+Au pays, j'irai voir Margot
+      Em         D          Em
+À son doigt, je passerai l'anneau
+
+[Refrain Final]
+Em                                 D
+Tiens bon le cap et tiens bon le flot
+Em                           D
+Hissez haut ! Hissez haut ! Santiano !
+Am                 D
+Sur la mer qui fait le gros dos
+     Em       D           Em
+Nous irons jusqu'à San Francisco !
 ```
 
 
