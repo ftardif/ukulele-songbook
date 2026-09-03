@@ -1,5 +1,5 @@
 # 🎵 Les étoiles filantes
-*Artiste : Les Cowboys Fringants*
+*Artiste : Les Cowboys Fringants (2004)*
 
 ---
 
@@ -7,7 +7,7 @@
 - **Page :** 9
 - **Tonalité :** La mineur (Am)
 - **Progression d'accords :** Boucle continue `Am — G — Em — F`
-- **Rythmique (Strumming) :** `↓   ↓ ↑   ↑ ↓ ↑` *(D - DU - UDU)* — Folk / Pop québécoise entraînante
+- **Rythmique (Strumming) :** `↓   ↓ ↑   ↑ ↓ ↑` *(Folk québécois entraînant)*
 - **Tempo :** ~120 BPM
 - **Mesure :** 4/4
 - **Accords :** 
@@ -20,98 +20,119 @@
 
 ## 🎼 Grille et Paroles
 
+### 🌟 Refrain
+```text
+Am                                 G
+Mais au bout du ch'min, dis-moi c'qui va rester
+Em                                   F
+De la p'tite école et d'la cour de récré ?
+Am                                    G
+Quand les avions en papier ne partent plus au vent
+Em                                 F
+On se dit que l'bon temps passe finalement
+               Am    G  Em  F
+Comme une étoile filante...
+```
+
+---
+
 ```text
 [Intro : Am | G | Em | F (x2)]
 
-[Couplet 1 - L'enfance]                         [Couplet 3 - L'amour & la résilience]
-Am                    G                         Am                  G
-Si je m'arrête un instant                       Si je m'arrête un instant
-Em                   F                          Em                 F
-Pour te parler de ma vie                        Pour te parler de la vie
-Am                       G                      Am                   G
-Juste comme ça tranquillement                   Juste comme ça tranquillement
-Em                   F                          Em                 F
-Dans un bar rue St-Denis                        Pas loin du carré St-Louis
-Am                     G                        Am                     G
-J'te raconterai les souvenirs                   C'est qu'avec toi je suis bien
-Em                     F                        Em                    F
-Bien gravés dans ma mémoire                     Et que j'ai pu l'goût de m'en faire
-Am                     G                        Am                  G
-De cette époque où vieillir                     Parce que tsé voir trop loin
-Em                   F                          Em                  F
-Était encore bien illusoire                     C'pas mieux que r'garder en arrière
-Am                      G                       Am                     G
-Quand j'agaçais les p'tites filles              Malgré les vieilles amertumes
-Em                   F                          Em                   F
-Pas loin des balançoires                        Et les amours qui passent
-Am                  G                           Am                         G
-Et que mon sac de billes                        Les chums qu'on perd dans' brume
-Em                  F                           Em                   F
-Devenait un vrai trésor                         Et les idéaux qui se cassent
-Am                  G                           Am                    G
-Et ces hivers enneigés                          La vie s'accroche et renaît
-Em                  F                           Em                 F
-À construire des igloos                         Comme les printemps reviennent
-Am                     G                        Am                   G
-Et rentrer les pieds g'lés                      Dans une bouffée d'air frais
-Em                    F                         Em                 F
-Juste à temps pour Passe-Partout                Qui apaise les cœurs en peine
-                                                Am                             G
-[Refrain 1]                                     Ça fait que si à soir t'as envie de rester
-Am                                 G            Em                           F
-Mais au bout du ch'min dis-moi c'qui va rester  Avec moi, la nuit est douce, on peut marcher
-Em                                   F          Am                                  G
-De la p'tite école et d'la cour de récré ?      Et même si on sait bien que tout dure rien qu'un temps
-Am                                    G         Em                               F
-Quand les avions en papier ne partent plus au vent J'aimerais ça que tu sois pour un moment...
-Em                               F              Am        G   Em   F
-On se dit que l'bon temps passe finalement…     mon étoile filante !
-          Am        G    Em    F
-…comme une étoile filante !                     [Refrain 3 / Final]
-                                                Am                                 G
-[Couplet 2 - La vie d'adulte]                   Mais au bout du ch'min dis-moi c'qui va rester
-Am                  G                           Em                             F
-Si je m'arrête un instant                       De notre p'tit passage dans ce monde effréné ?
-Em                 F                            Am                           G
-Pour te parler de la vie                        Après avoir existé pour gagner du temps
-Am                      G                       Em                           F
-Je constate que bien souvent                    On s'dira que l'on était finalement…
-Em                   F                                    Am        G    Em    F
-On choisit pas mais on subit                    …que des étoiles filantes !
-Am                      G
-Et que les rêves des ti-culs                    [Outro]
-Em                     F                        Am | G | Em | F (ad lib en diminuendo)
-S'évanouissent ou se refoulent
-Am                 G
-Dans cette réalité crue
-Em                    F
-Qui nous embarque dans le moule
-Am                     G
-La trentaine, la bedaine
-Em                    F
-Les morveux, l'hypothèque
-Am                   G
-Les bonheurs et les peines
-Em                    F
-Les bons coups et les échecs
+[Couplet 1 — L'Enfance]
 Am                    G
-Travailler, faire d'son mieux
-Em                 F
-En arracher, s'en sortir
+Si je m'arrête un instant pour te parler de ma vie
+Em                   F
+Juste comme ça tranquillement dans un bar rue St-Denis
 Am                 G
-Et espérer être heureux
-Em               F
-Un peu avant de mourir
+J'te racont'rais les souv'nirs bien gravés dans ma mémoire
+Em                 F
+De cette époque où vieillir était encore bien illusoire
+Am                  G
+Quand j'agaçais les p'tites filles pas loin des balançoires
+Em              F
+Et que mon sac de billes devenait un vrai trésor
+Am               G
+Ces hivers enneigés à construire des igloos
+Em                  F
+Et rentrer les pieds g'lés juste à temps pour Passe-Partout.
+
+[Refrain 1]
+Am                                 G
+Mais au bout du ch'min, dis-moi c'qui va rester
+Em                                   F
+De la p'tite école et d'la cour de récré ?
+Am                                    G
+Quand les avions en papier ne partent plus au vent
+Em                                 F
+On se dit que l'bon temps passe finalement
+               Am    G  Em  F
+Comme une étoile filante...
+
+[Couplet 2 — La Vie d'Adulte]
+Am                    G
+Si je m'arrête un instant pour te parler de la vie
+Em                   F
+Je constate que bien souvent on choisit pas mais on subit
+Am                  G
+Et que les rêves des ti-culs s'évanouissent ou se refoulent
+Em                 F
+Dans cette réalité crue qui nous embarque dans le moule
+Am                 G
+La trentaine, la bedaine, les morveux, l'hypothèque
+Em                 F
+Les bonheurs et les peines, les bons coups et les échecs
+Am                  G
+Travailler, faire d'son mieux, n'arracher, s'en sortir
+Em                F
+Et espérer être heureux un peu avant de mourir.
 
 [Refrain 2]
 Am                                 G
-Mais au bout du ch'min dis-moi c'qui va rester
+Mais au bout du ch'min, dis-moi c'qui va rester
 Em                             F
-De notre p'tit passage dans ce monde effréné ?
+De nos p'tits passages dans ce monde effréné ?
 Am                           G
 Après avoir existé pour gagner du temps
+Em                             F
+On s'dira que l'on était finalement
+               Am    G  Em  F
+Que des étoiles filantes...
+
+[Couplet 3 — L'Amour & la Nuit]
+Am                    G
+Si je m'arrête un instant pour te parler de la vie
+Em                   F
+Juste comme ça, tranquillement, pas loin du Carré Saint-Louis
+Am                 G
+C'est qu'avec toi je suis bien et qu'j'ai pu l'goût d'm'en faire
+Em                  F
+Parce que tsé, voir trop loin c'pas mieux que r'garder en arrière
+Am                    G
+Malgré les vieilles amertumes et les amours qui passent
+Em                   F
+Les chums qu'on perd dans 'brume et les idéaux qui se cassent
+Am                   G
+La vie s'accroche et renaît comme les printemps reviennent
+Em                  F
+Dans une bouffée d'air frais qui apaisent les cœurs en peine.
+
+[Refrain 3 & Outro]
+Am                             G
+Ça fait que si à' soir t'as envie de rester
 Em                           F
-On s'dira que l'on était finalement…
-          Am        G    Em    F
-…que des étoiles filantes !
+Avec moi la nuit est douce on peut marcher
+Am                                  G
+Et même si on sait ben que tout' dure rien qu'un temps
+Em                               F
+J'aim'rais ça que tu sois pour un moment
+            Am    G  Em  F
+Mon étoile filante...
+
+Am                                 G     Em  F
+Mais au bout du ch'min, dis-moi c'qui va rester...
+Am                                 G     Em  F
+Et au bout du ch'min, dis-moi c'qui va rester...
+               Am (fin)
+Des étoiles filantes !
 ```

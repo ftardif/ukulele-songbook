@@ -16,7 +16,7 @@
 | **7** | **La légende indienne** | Les Karrik | 3 accords : Am, G, C |
 | **8** | **Riptide** | Vance Joy | 4 accords : Am, G, C, F |
 | **9** | **Les étoiles filantes** | Les Cowboys Fringants | 4 accords : Am, G, Em, F |
-| **10** | **Marine marchande** | Les Cowboys Fringants | 4 accords : C, G, Am, F |
+| **10** | **Marine marchande** | Les Cowboys Fringants | 5 accords : C, G, Am, Em, F |
 | **11** | **I'm Yours** | Jason Mraz | 4 accords : C, G, Am, F |
 | **12** | **Les Aventuriers** | Traditionnel / Feu de camp | 4 accords : G, Em, Am7, D7 |
 | **13** | **Hallelujah** | Leonard Cohen / Jeff Buckley | 5 accords : C, Am, F, G, E7 |
@@ -524,7 +524,7 @@ And she's been living on the highest shelf      In my throat, 'cause you're gonn
 ---
 
 # 🎵 Les étoiles filantes
-*Artiste : Les Cowboys Fringants*
+*Artiste : Les Cowboys Fringants (2004)*
 
 ---
 
@@ -532,7 +532,7 @@ And she's been living on the highest shelf      In my throat, 'cause you're gonn
 - **Page :** 9
 - **Tonalité :** La mineur (Am)
 - **Progression d'accords :** Boucle continue `Am — G — Em — F`
-- **Rythmique (Strumming) :** `↓   ↓ ↑   ↑ ↓ ↑` *(D - DU - UDU)* — Folk / Pop québécoise entraînante
+- **Rythmique (Strumming) :** `↓   ↓ ↑   ↑ ↓ ↑` *(Folk québécois entraînant)*
 - **Tempo :** ~120 BPM
 - **Mesure :** 4/4
 - **Accords :** 
@@ -545,197 +545,272 @@ And she's been living on the highest shelf      In my throat, 'cause you're gonn
 
 ## 🎼 Grille et Paroles
 
+### 🌟 Refrain
+```text
+Am                                 G
+Mais au bout du ch'min, dis-moi c'qui va rester
+Em                                   F
+De la p'tite école et d'la cour de récré ?
+Am                                    G
+Quand les avions en papier ne partent plus au vent
+Em                                 F
+On se dit que l'bon temps passe finalement
+               Am    G  Em  F
+Comme une étoile filante...
+```
+
+---
+
 ```text
 [Intro : Am | G | Em | F (x2)]
 
-[Couplet 1 - L'enfance]                         [Couplet 3 - L'amour & la résilience]
-Am                    G                         Am                  G
-Si je m'arrête un instant                       Si je m'arrête un instant
-Em                   F                          Em                 F
-Pour te parler de ma vie                        Pour te parler de la vie
-Am                       G                      Am                   G
-Juste comme ça tranquillement                   Juste comme ça tranquillement
-Em                   F                          Em                 F
-Dans un bar rue St-Denis                        Pas loin du carré St-Louis
-Am                     G                        Am                     G
-J'te raconterai les souvenirs                   C'est qu'avec toi je suis bien
-Em                     F                        Em                    F
-Bien gravés dans ma mémoire                     Et que j'ai pu l'goût de m'en faire
-Am                     G                        Am                  G
-De cette époque où vieillir                     Parce que tsé voir trop loin
-Em                   F                          Em                  F
-Était encore bien illusoire                     C'pas mieux que r'garder en arrière
-Am                      G                       Am                     G
-Quand j'agaçais les p'tites filles              Malgré les vieilles amertumes
-Em                   F                          Em                   F
-Pas loin des balançoires                        Et les amours qui passent
-Am                  G                           Am                         G
-Et que mon sac de billes                        Les chums qu'on perd dans' brume
-Em                  F                           Em                   F
-Devenait un vrai trésor                         Et les idéaux qui se cassent
-Am                  G                           Am                    G
-Et ces hivers enneigés                          La vie s'accroche et renaît
-Em                  F                           Em                 F
-À construire des igloos                         Comme les printemps reviennent
-Am                     G                        Am                   G
-Et rentrer les pieds g'lés                      Dans une bouffée d'air frais
-Em                    F                         Em                 F
-Juste à temps pour Passe-Partout                Qui apaise les cœurs en peine
-                                                Am                             G
-[Refrain 1]                                     Ça fait que si à soir t'as envie de rester
-Am                                 G            Em                           F
-Mais au bout du ch'min dis-moi c'qui va rester  Avec moi, la nuit est douce, on peut marcher
-Em                                   F          Am                                  G
-De la p'tite école et d'la cour de récré ?      Et même si on sait bien que tout dure rien qu'un temps
-Am                                    G         Em                               F
-Quand les avions en papier ne partent plus au vent J'aimerais ça que tu sois pour un moment...
-Em                               F              Am        G   Em   F
-On se dit que l'bon temps passe finalement…     mon étoile filante !
-          Am        G    Em    F
-…comme une étoile filante !                     [Refrain 3 / Final]
-                                                Am                                 G
-[Couplet 2 - La vie d'adulte]                   Mais au bout du ch'min dis-moi c'qui va rester
-Am                  G                           Em                             F
-Si je m'arrête un instant                       De notre p'tit passage dans ce monde effréné ?
-Em                 F                            Am                           G
-Pour te parler de la vie                        Après avoir existé pour gagner du temps
-Am                      G                       Em                           F
-Je constate que bien souvent                    On s'dira que l'on était finalement…
-Em                   F                                    Am        G    Em    F
-On choisit pas mais on subit                    …que des étoiles filantes !
-Am                      G
-Et que les rêves des ti-culs                    [Outro]
-Em                     F                        Am | G | Em | F (ad lib en diminuendo)
-S'évanouissent ou se refoulent
-Am                 G
-Dans cette réalité crue
-Em                    F
-Qui nous embarque dans le moule
-Am                     G
-La trentaine, la bedaine
-Em                    F
-Les morveux, l'hypothèque
-Am                   G
-Les bonheurs et les peines
-Em                    F
-Les bons coups et les échecs
+[Couplet 1 — L'Enfance]
 Am                    G
-Travailler, faire d'son mieux
-Em                 F
-En arracher, s'en sortir
+Si je m'arrête un instant pour te parler de ma vie
+Em                   F
+Juste comme ça tranquillement dans un bar rue St-Denis
 Am                 G
-Et espérer être heureux
-Em               F
-Un peu avant de mourir
+J'te racont'rais les souv'nirs bien gravés dans ma mémoire
+Em                 F
+De cette époque où vieillir était encore bien illusoire
+Am                  G
+Quand j'agaçais les p'tites filles pas loin des balançoires
+Em              F
+Et que mon sac de billes devenait un vrai trésor
+Am               G
+Ces hivers enneigés à construire des igloos
+Em                  F
+Et rentrer les pieds g'lés juste à temps pour Passe-Partout.
+
+[Refrain 1]
+Am                                 G
+Mais au bout du ch'min, dis-moi c'qui va rester
+Em                                   F
+De la p'tite école et d'la cour de récré ?
+Am                                    G
+Quand les avions en papier ne partent plus au vent
+Em                                 F
+On se dit que l'bon temps passe finalement
+               Am    G  Em  F
+Comme une étoile filante...
+
+[Couplet 2 — La Vie d'Adulte]
+Am                    G
+Si je m'arrête un instant pour te parler de la vie
+Em                   F
+Je constate que bien souvent on choisit pas mais on subit
+Am                  G
+Et que les rêves des ti-culs s'évanouissent ou se refoulent
+Em                 F
+Dans cette réalité crue qui nous embarque dans le moule
+Am                 G
+La trentaine, la bedaine, les morveux, l'hypothèque
+Em                 F
+Les bonheurs et les peines, les bons coups et les échecs
+Am                  G
+Travailler, faire d'son mieux, n'arracher, s'en sortir
+Em                F
+Et espérer être heureux un peu avant de mourir.
 
 [Refrain 2]
 Am                                 G
-Mais au bout du ch'min dis-moi c'qui va rester
+Mais au bout du ch'min, dis-moi c'qui va rester
 Em                             F
-De notre p'tit passage dans ce monde effréné ?
+De nos p'tits passages dans ce monde effréné ?
 Am                           G
 Après avoir existé pour gagner du temps
+Em                             F
+On s'dira que l'on était finalement
+               Am    G  Em  F
+Que des étoiles filantes...
+
+[Couplet 3 — L'Amour & la Nuit]
+Am                    G
+Si je m'arrête un instant pour te parler de la vie
+Em                   F
+Juste comme ça, tranquillement, pas loin du Carré Saint-Louis
+Am                 G
+C'est qu'avec toi je suis bien et qu'j'ai pu l'goût d'm'en faire
+Em                  F
+Parce que tsé, voir trop loin c'pas mieux que r'garder en arrière
+Am                    G
+Malgré les vieilles amertumes et les amours qui passent
+Em                   F
+Les chums qu'on perd dans 'brume et les idéaux qui se cassent
+Am                   G
+La vie s'accroche et renaît comme les printemps reviennent
+Em                  F
+Dans une bouffée d'air frais qui apaisent les cœurs en peine.
+
+[Refrain 3 & Outro]
+Am                             G
+Ça fait que si à' soir t'as envie de rester
 Em                           F
-On s'dira que l'on était finalement…
-          Am        G    Em    F
-…que des étoiles filantes !
+Avec moi la nuit est douce on peut marcher
+Am                                  G
+Et même si on sait ben que tout' dure rien qu'un temps
+Em                               F
+J'aim'rais ça que tu sois pour un moment
+            Am    G  Em  F
+Mon étoile filante...
+
+Am                                 G     Em  F
+Mais au bout du ch'min, dis-moi c'qui va rester...
+Am                                 G     Em  F
+Et au bout du ch'min, dis-moi c'qui va rester...
+               Am (fin)
+Des étoiles filantes !
 ```
 
 
 ---
 
 # 🎵 Marine marchande
-*Artiste : Les Cowboys Fringants (Album : Octobre, 2015)*
+*Artiste : Les Cowboys Fringants (2015)*
 
 ---
 
 ## 📌 Informations & Repères
 - **Page :** 10
-- **Tonalité :** Do Majeur (C) / La mineur (Am) *(ou tonalité originale Gb avec capo 6)*
-- **Progression d'accords :** Boucle festive `C — G — Am — F`
-- **Rythmique (Strumming) :** `↓   ↓ ↑   ↑ ↓ ↑` *(Reel maritime / Folk québécois rapide)*
-- **Tempo :** Vif et entraînant (~125 - 130 BPM)
+- **Tonalité :** Do Majeur (C)
+- **Rythmique (Strumming) :** `↓   ↓ ↑   ↑ ↓ ↑` *(Reel festif / Chanson à boire entraînante)*
+- **Tempo :** ~125 BPM
 - **Mesure :** 4/4
 - **Accords :** 
-  - `C` `[0 0 0 3]` — Corde A frette 3 (doigt 3)
+  - `C` `[0 0 0 3]` — Corde A frette 3
   - `G` `[0 2 3 2]` — Corde C(2), A(2), E(3)
   - `Am` `[2 0 0 0]` — Corde G frette 2
+  - `Em` `[0 4 3 2]` — Escalier : A(2), E(3), C(4)
   - `F` `[2 0 1 0]` — Corde E(1), G(2)
 
 ---
 
 ## 🎼 Grille et Paroles
 
-### 🌟 Refrain
+### 🌟 Refrain (après chaque couplet)
 ```text
-C                             G
-Oh! À boire, à boire, car j'ai la gorge en feu !
-Am                            F
-À boire, à boire, pour les couples malheureux !
-C                             G
-À boire, à boire, un dernier coup la grande,
-Am                          F             C
+C                                     F          C
+À boire, à boire, à boire, à boire ! J'ai la gorge en feu !
+Am                            G
+À boire, à boire, à boire ! Pour les couples malheureux !
+C                              G             Am
+À boire, à boire, à boire ! Juste un dernier coup la grande
+      F        C             G             C
 Je me suis engagé dans la marine marchande !
+        F        C             G             C
+Oui, j'me suis engagé dans la marine marchande !
 ```
 
 ---
 
 ```text
-[Intro : C | G | Am | F (x2)]
+[Intro : C | G | Am | Em | F | C | G (x2)]
 
-[Couplet 1 - Le gars]                           [Couplet 2 - En pleine mer]
-C                                               C
-Aujourd'hui j'ai signé, au revoir la grande     Au large de l'Atlantique Nord sur des flots déchaînés
-G                                               G
-Je me suis engagé dans la marine marchande      Oui je couine comme un porc dans des vagues de trente pieds
-Am                                              Am
-Je quitte mon trou à rats pour une coupe de cent piastres Je me vomis les tripes à cause du mal de mer
-F                                               F
-Qu'est-ce qu'un homme f'rait pas pour pu r'voir ta face ! Et j'te jure sur ma vie que rien n'égale l'enfer...
-                                                ...de vivre avec toé !
-[Réplique - La grande]                          
-C                                               [Réplique - La grande]
-Oh mon prince charmant, t'as jamais travaillé   C
-G                                               Yeah right mon homme, penses-tu me faire brailler
-Pis t'es l'pire fainéant qu'la terre a engendré G
-Am                                              Toi qui m'trompes comme une conne dès qu'j'ai le dos tourné ?
-Si c'est vrai qu'tu t'en vas, j'm'installe sur le rivage Am
-F                                               D'ailleurs si j'bois ma vie d'merde à même le goulot
-Pour te voir mon gros gars t'éloigner vers le large ! F
-                                                D'une bouteille de whisky, c't'à cause de toi salaud !
+[Couplet 1 — Le départ]
+C                           G
+Aujourd'hui j'ai signé, au revoir la grande !
+      Am                    Em
+Je me suis engagé dans la marine marchande
+         F                         C
+Je quitte mon trou à rats pour une coup' de cent piass'
+       G
+Quessé qu'un gars f'rait pas pour pu' te r'voir la face !
+
+[La réplique — La grande]
+    C                        G
+Oh ! Mon prince charmant t'as jamais travaillé
+          Am                         Em
+Pis t'es l'pire fainéant qu'la terre a engendré
+        F                       C
+Si c'est vrai qu'tu t'en vas j'm'installe sur le rivage
+         G
+Pour te voir mon gros gars t'éloigner vers le large !
+
 [Le gars]
-C                                               [Refrain]
+     C                                 G
 T'es méchante quand t'es saoule, pis comme t'es toujours saoule
-G                                               [Couplet 3 - Djibouti & Chute]
-Ben t'es tout l'temps méchante, c'est comme dans les portes tournantes C
-Am                                              Tout seul sur le quai du port de Djibouti
-Alors oui j'ai signé, pour pu te r'voir la grande G
-F                                               Je suis vraiment paumé si loin de mon pays
-Je me suis engagé dans la marine marchande !    Am
-                                                T'as beau être une vraie folle, mais faut que j'm'y résigne
-[Refrain]                                       F
-C                             G                 J'attrape le premier vol le jour où tu m'fais signe !
-Oh! À boire, à boire, car j'ai la gorge en feu !
-Am                            F                 [Réplique finale - La grande]
-À boire, à boire, pour les couples malheureux ! C
-C                             G                 Oh tu peux bien r'venir, mais presse-toi pas mon grand
-À boire, à boire, un dernier coup la grande,    G
-Am                          F             C     Y a pas l'feu au navire et puis en t'attendant
-Je me suis engagé dans la marine marchande !    Am
-                                                J'suis en bonne compagnie avec la voisine d'en haut
-                                                F
-                                                Qui chaque soir dans notre lit te garde la place au chaud !
-                                                (Cri : Nooooonnnnnn !!!)
+         Am                            Em
+Ben, t'es tout l'temps méchante, c'est comme des portes tournantes
+      F                           C
+Alors oui, j'ai signé pour pu' te r'voir la grande !
+      G
+Je me suis engagé dans la marine marchande !
 
-                                                [Refrain Final (x2)]
-                                                C                         G
-                                                À boire, à boire, car j'ai la gorge en feu !
-                                                Am                        F
-                                                À boire, à boire, pour les couples malheureux !
-                                                C                         G
-                                                À boire, à boire, juste un dernier coup la grande,
-                                                Am                      F             C (fin)
-                                                Je me suis engagé dans la marine marchande !
+[Refrain 1]
+
+[Couplet 2 — En mer]
+            C                         G
+Au large d'l'Atlantique Nord sur des flots déchaînés
+       Am                        Em
+Oui, je couine comme un porc dans les vagues de 30 pieds
+      F                      C
+Je me vomis les tripes à cause du mal de mer
+        G
+Mais j'te jure sur ma pipe que rien n'égale l'enfer... DE VIVRE AVEC TOI !
+
+[La réplique — La grande]
+C                               G
+Yeah right ! Mon homme, penses-tu me faire brailler ?
+         Am                         Em
+Toi, qui m'trompes comme une conne dès qu'j'ai le dos tourné !
+          F                     C
+D'ailleurs, si j'bois ma vie d'merde à même le goulot
+        G
+D'une bouteille de whisky, c't'à cause de toi salaud !
+
+[Refrain 2]
+
+[Pont — La galère & Les pirates]
+     Am                         G
+Oh ! J'ai perdu 20 livres depuis que j'suis parti
+       C                F
+À cause d'une foutue dysenterie
+        Am                            G
+J'tire des coups d'12 dans l'bol si bien qu'le capitaine
+     F                      G
+M'a confiné comme un con à la quarantaine
+     Am                  G
+Oh ! Y fait chaud, ça pue et j'ai pas l'pied marin
+       C                    F
+La mer grouille de pirates somaliens
+        Am                       G
+Je n'suis qu'un pauvre raté c'est toi qui avais raison
+         F                        G
+Mais maint'nant, laissez-moi rentrer à la maison... RAMÈNE-MOI CHÉRIE !
+
+[Refrain 3]
+
+[Couplet 3 — Djibouti & Chute finale]
+     C                           G
+Tout seul sur le quai du port de Djibouti
+      Am                 Em
+Je suis vraiment paumé si loin de mon pays
+        F                              C
+T'as beau être une vraie folle, mais faut que j'm'y résigne
+       G
+J'attrape le premier vol le jour où tu m'fais signe !
+
+[La réplique finale — La grande]
+     C                             G
+Ah ! Tu peux ben rev'nir, mais presse-toi pas mon grand
+            Am                     Em
+Y a pas l'feu au navire et puis en t'attendant
+        F                                  C
+Chu en bonne compagnie avec la voisine d'en haut
+          G
+Qui chaque soir dans not' lit te garde la place au chaud !
+
+[Refrain 4 & Final]
+C                                     F          C
+À boire, à boire, à boire, à boire ! J'ai la gorge en feu !
+Am                            G
+À boire, à boire, à boire ! Pour les couples malheureux !
+C                              G             Am
+À boire, à boire, à boire ! Juste un dernier coup la grande
+      F        C             G             C
+Je me suis engagé dans la marine marchande !
+        F        C             G             C (fin)
+Oui, j'me suis engagé dans la marine marchande !
 ```
 
 

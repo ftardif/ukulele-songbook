@@ -1,93 +1,147 @@
 # 🎵 Marine marchande
-*Artiste : Les Cowboys Fringants (Album : Octobre, 2015)*
+*Artiste : Les Cowboys Fringants (2015)*
 
 ---
 
 ## 📌 Informations & Repères
 - **Page :** 10
-- **Tonalité :** Do Majeur (C) / La mineur (Am) *(ou tonalité originale Gb avec capo 6)*
-- **Progression d'accords :** Boucle festive `C — G — Am — F`
-- **Rythmique (Strumming) :** `↓   ↓ ↑   ↑ ↓ ↑` *(Reel maritime / Folk québécois rapide)*
-- **Tempo :** Vif et entraînant (~125 - 130 BPM)
+- **Tonalité :** Do Majeur (C)
+- **Rythmique (Strumming) :** `↓   ↓ ↑   ↑ ↓ ↑` *(Reel festif / Chanson à boire entraînante)*
+- **Tempo :** ~125 BPM
 - **Mesure :** 4/4
 - **Accords :** 
-  - `C` `[0 0 0 3]` — Corde A frette 3 (doigt 3)
+  - `C` `[0 0 0 3]` — Corde A frette 3
   - `G` `[0 2 3 2]` — Corde C(2), A(2), E(3)
   - `Am` `[2 0 0 0]` — Corde G frette 2
+  - `Em` `[0 4 3 2]` — Escalier : A(2), E(3), C(4)
   - `F` `[2 0 1 0]` — Corde E(1), G(2)
 
 ---
 
 ## 🎼 Grille et Paroles
 
-### 🌟 Refrain
+### 🌟 Refrain (après chaque couplet)
 ```text
-C                             G
-Oh! À boire, à boire, car j'ai la gorge en feu !
-Am                            F
-À boire, à boire, pour les couples malheureux !
-C                             G
-À boire, à boire, un dernier coup la grande,
-Am                          F             C
+C                                     F          C
+À boire, à boire, à boire, à boire ! J'ai la gorge en feu !
+Am                            G
+À boire, à boire, à boire ! Pour les couples malheureux !
+C                              G             Am
+À boire, à boire, à boire ! Juste un dernier coup la grande
+      F        C             G             C
 Je me suis engagé dans la marine marchande !
+        F        C             G             C
+Oui, j'me suis engagé dans la marine marchande !
 ```
 
 ---
 
 ```text
-[Intro : C | G | Am | F (x2)]
+[Intro : C | G | Am | Em | F | C | G (x2)]
 
-[Couplet 1 - Le gars]                           [Couplet 2 - En pleine mer]
-C                                               C
-Aujourd'hui j'ai signé, au revoir la grande     Au large de l'Atlantique Nord sur des flots déchaînés
-G                                               G
-Je me suis engagé dans la marine marchande      Oui je couine comme un porc dans des vagues de trente pieds
-Am                                              Am
-Je quitte mon trou à rats pour une coupe de cent piastres Je me vomis les tripes à cause du mal de mer
-F                                               F
-Qu'est-ce qu'un homme f'rait pas pour pu r'voir ta face ! Et j'te jure sur ma vie que rien n'égale l'enfer...
-                                                ...de vivre avec toé !
-[Réplique - La grande]                          
-C                                               [Réplique - La grande]
-Oh mon prince charmant, t'as jamais travaillé   C
-G                                               Yeah right mon homme, penses-tu me faire brailler
-Pis t'es l'pire fainéant qu'la terre a engendré G
-Am                                              Toi qui m'trompes comme une conne dès qu'j'ai le dos tourné ?
-Si c'est vrai qu'tu t'en vas, j'm'installe sur le rivage Am
-F                                               D'ailleurs si j'bois ma vie d'merde à même le goulot
-Pour te voir mon gros gars t'éloigner vers le large ! F
-                                                D'une bouteille de whisky, c't'à cause de toi salaud !
+[Couplet 1 — Le départ]
+C                           G
+Aujourd'hui j'ai signé, au revoir la grande !
+      Am                    Em
+Je me suis engagé dans la marine marchande
+         F                         C
+Je quitte mon trou à rats pour une coup' de cent piass'
+       G
+Quessé qu'un gars f'rait pas pour pu' te r'voir la face !
+
+[La réplique — La grande]
+    C                        G
+Oh ! Mon prince charmant t'as jamais travaillé
+          Am                         Em
+Pis t'es l'pire fainéant qu'la terre a engendré
+        F                       C
+Si c'est vrai qu'tu t'en vas j'm'installe sur le rivage
+         G
+Pour te voir mon gros gars t'éloigner vers le large !
+
 [Le gars]
-C                                               [Refrain]
+     C                                 G
 T'es méchante quand t'es saoule, pis comme t'es toujours saoule
-G                                               [Couplet 3 - Djibouti & Chute]
-Ben t'es tout l'temps méchante, c'est comme dans les portes tournantes C
-Am                                              Tout seul sur le quai du port de Djibouti
-Alors oui j'ai signé, pour pu te r'voir la grande G
-F                                               Je suis vraiment paumé si loin de mon pays
-Je me suis engagé dans la marine marchande !    Am
-                                                T'as beau être une vraie folle, mais faut que j'm'y résigne
-[Refrain]                                       F
-C                             G                 J'attrape le premier vol le jour où tu m'fais signe !
-Oh! À boire, à boire, car j'ai la gorge en feu !
-Am                            F                 [Réplique finale - La grande]
-À boire, à boire, pour les couples malheureux ! C
-C                             G                 Oh tu peux bien r'venir, mais presse-toi pas mon grand
-À boire, à boire, un dernier coup la grande,    G
-Am                          F             C     Y a pas l'feu au navire et puis en t'attendant
-Je me suis engagé dans la marine marchande !    Am
-                                                J'suis en bonne compagnie avec la voisine d'en haut
-                                                F
-                                                Qui chaque soir dans notre lit te garde la place au chaud !
-                                                (Cri : Nooooonnnnnn !!!)
+         Am                            Em
+Ben, t'es tout l'temps méchante, c'est comme des portes tournantes
+      F                           C
+Alors oui, j'ai signé pour pu' te r'voir la grande !
+      G
+Je me suis engagé dans la marine marchande !
 
-                                                [Refrain Final (x2)]
-                                                C                         G
-                                                À boire, à boire, car j'ai la gorge en feu !
-                                                Am                        F
-                                                À boire, à boire, pour les couples malheureux !
-                                                C                         G
-                                                À boire, à boire, juste un dernier coup la grande,
-                                                Am                      F             C (fin)
-                                                Je me suis engagé dans la marine marchande !
+[Refrain 1]
+
+[Couplet 2 — En mer]
+            C                         G
+Au large d'l'Atlantique Nord sur des flots déchaînés
+       Am                        Em
+Oui, je couine comme un porc dans les vagues de 30 pieds
+      F                      C
+Je me vomis les tripes à cause du mal de mer
+        G
+Mais j'te jure sur ma pipe que rien n'égale l'enfer... DE VIVRE AVEC TOI !
+
+[La réplique — La grande]
+C                               G
+Yeah right ! Mon homme, penses-tu me faire brailler ?
+         Am                         Em
+Toi, qui m'trompes comme une conne dès qu'j'ai le dos tourné !
+          F                     C
+D'ailleurs, si j'bois ma vie d'merde à même le goulot
+        G
+D'une bouteille de whisky, c't'à cause de toi salaud !
+
+[Refrain 2]
+
+[Pont — La galère & Les pirates]
+     Am                         G
+Oh ! J'ai perdu 20 livres depuis que j'suis parti
+       C                F
+À cause d'une foutue dysenterie
+        Am                            G
+J'tire des coups d'12 dans l'bol si bien qu'le capitaine
+     F                      G
+M'a confiné comme un con à la quarantaine
+     Am                  G
+Oh ! Y fait chaud, ça pue et j'ai pas l'pied marin
+       C                    F
+La mer grouille de pirates somaliens
+        Am                       G
+Je n'suis qu'un pauvre raté c'est toi qui avais raison
+         F                        G
+Mais maint'nant, laissez-moi rentrer à la maison... RAMÈNE-MOI CHÉRIE !
+
+[Refrain 3]
+
+[Couplet 3 — Djibouti & Chute finale]
+     C                           G
+Tout seul sur le quai du port de Djibouti
+      Am                 Em
+Je suis vraiment paumé si loin de mon pays
+        F                              C
+T'as beau être une vraie folle, mais faut que j'm'y résigne
+       G
+J'attrape le premier vol le jour où tu m'fais signe !
+
+[La réplique finale — La grande]
+     C                             G
+Ah ! Tu peux ben rev'nir, mais presse-toi pas mon grand
+            Am                     Em
+Y a pas l'feu au navire et puis en t'attendant
+        F                                  C
+Chu en bonne compagnie avec la voisine d'en haut
+          G
+Qui chaque soir dans not' lit te garde la place au chaud !
+
+[Refrain 4 & Final]
+C                                     F          C
+À boire, à boire, à boire, à boire ! J'ai la gorge en feu !
+Am                            G
+À boire, à boire, à boire ! Pour les couples malheureux !
+C                              G             Am
+À boire, à boire, à boire ! Juste un dernier coup la grande
+      F        C             G             C
+Je me suis engagé dans la marine marchande !
+        F        C             G             C (fin)
+Oui, j'me suis engagé dans la marine marchande !
 ```
