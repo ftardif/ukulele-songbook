@@ -13,7 +13,7 @@
 | **4** | **Histoire de mensonges** | Fred Pellerin | 2 accords : C, G |
 | **5** | **Heureux d’un printemps** | Paul Piché | 3 accords : Am, G, Em |
 | **6** | **Santiano** | Hugues Aufray | 3 accords : Em, D, Am |
-| **7** | **La légende indienne** | Les Compagnons de la Chanson | 3 accords : Em, D, G |
+| **7** | **La légende indienne** | Les Karrik | 3 accords : Em, D, G |
 | **8** | **Riptide** | Vance Joy | 4 accords : Am, G, C, F |
 | **9** | **Les étoiles filantes** | Les Cowboys Fringants | 4 accords : Am, G, Em, F |
 | **10** | **Marine marchande** | Les Cowboys Fringants | 4 accords : C, G, Am, F |
@@ -383,76 +383,72 @@ Nous irons jusqu'à San Francisco !
 - **Tempo :** ~105 BPM
 - **Mesure :** 4/4
 - **Accords :**
-  - `Em` `[0 4 3 2]` — Corde A(2), E(3), C(4)
-  - `D` `[2 2 2 0]` — Cordes G(2), C(2), E(2)
+  - `Em` `[0 4 3 2]` — Escalier : A(2), E(3), C(4)
+  - `D` `[2 2 2 0]` — Barre ou 3 doigts : G(2), C(2), E(2)
   - `G` `[0 2 3 2]` — Corde C(2), A(2), E(3)
 
 ---
 
 ## 🎼 Grille et Paroles
 
+### 🌟 Refrain (après chaque couplet)
 ```text
-[Intro : Em | D | Em | D]
+ Em                          G                  D
+Par la voix du grand Esprit, l’oiseau sauvage a poussé son cri,
+ Em                                       G                 D     Em
+Vole, vole, vole, mon cœur va bien haut, je suis le frère de cet oiseau.
+ Em                                   Em      D   G       Em      D   Em
+Oh oh oh oh ... oh, oh, oh, oh ...   kao kao kao ha ...   Kao kao kao ha !
+```
+
+---
+
+```text
+[Intro : Em | D | Em | D | Em]
 
 [Couplet 1]
-    Em              D
-Ce soir, j'ai entendu crier
-                        Em
-L'oiseau sauvage au creux d'un sentier
-    Em               D
-On aurait dit qu'il s'en allait,
-                           Em
-Mais je sais bien qu'il m'appelait
+    Em              D                                     Em
+Ce soir, j’ai entendu crier l’oiseau sauvage au creux d’un sentier.
+    Em             D                                  Em
+On aurait dit qu’il s’en allait, mais je sais bien qu’il m’appelait.
 
 [Refrain]
- Em                 G
-Écoute, écoute la voix des tiens
- D                   Em
-Écoute, écoute le vent qui vient
- Em                 G
-Écoute, écoute la voix des tiens
- D                   Em
-Écoute, écoute le vent qui vient
-G              D       Em
-Kao kao kao kao kao kao kao !
+ Em                          G                  D
+Par la voix du grand Esprit, l’oiseau sauvage a poussé son cri,
+ Em                                       G                 D     Em
+Vole, vole, vole, mon cœur va bien haut, je suis le frère de cet oiseau.
+ Em                                   Em      D   G       Em      D   Em
+Oh oh oh oh ... oh, oh, oh, oh ...   kao kao kao ha ...   Kao kao kao ha ...
 
 [Couplet 2]
-    Em                  D
-Par la voix du Grand Esprit,
-                          Em
-L'oiseau sauvage a poussé son cri
-     Em                  D
-Vole, vole, vole mon ami bien haut,
-                         Em
-Je suis le frère de cet oiseau
+    Em             D                                       Em
+Hier, j’ai mêlé pour toujours mon sang à celui de son amour,
+    Em               D                                  Em
+Et, sous la lune, les sorciers ont mené la danse des guerriers.
 
-[Intermède : Em | D | Em | D (x2)]
+[Refrain : Par la voix du grand Esprit...]
 
 [Couplet 3]
-       Em                 D
-L'oiseau sauvage est reparti,
-                           Em
-Vers les collines de son pays
-      Em                 D
-Il a laissé dans mon cœur d'enfant,
-                             Em
-Le souffle libre du grand vent
+       Em              D                                  Em
+Quand le tamtam s’arrêtera, sous la tente, on les laissera.
+       Em              D                               Em
+Dans ses bras, la jeune épousée tendrement va se reposer.
+
+[Refrain : Par la voix du grand Esprit...]
+
+[Couplet 4 & Final]
+     Em                  D                                        Em
+Demain, quand elle s’éveillera, depuis longtemps, je n’serai plus là.
+      Em                D                                   Em
+Avec l’oiseau, je serai parti ; comme l’oiseau, j’aurai quitté mon nid.
 
 [Refrain Final]
- Em                 G
-Écoute, écoute la voix des tiens
- D                   Em
-Écoute, écoute le vent qui vient
- Em                 G
-Écoute, écoute la voix des tiens
- D                   Em
-Écoute, écoute le vent qui vient
-
-[Conclusion]
-G              D       Em
-Kao kao kao kao kao kao kao !
-G              D       Em (fin)
-Kao kao kao kao kao kao kao !
+ Em                          G                  D
+Par la voix du grand Esprit, l’oiseau sauvage a poussé son cri,
+ Em                                       G                 D     Em
+Vole, vole, vole, mon cœur va bien haut, je suis le frère de cet oiseau.
+ Em                                   Em      D   G       Em      D   Em
+Oh oh oh oh ... oh, oh, oh, oh ...   kao kao kao ha ...   Kao kao kao ha !
 ```
 
 
