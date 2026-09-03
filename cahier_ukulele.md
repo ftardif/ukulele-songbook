@@ -1,56 +1,36 @@
 # 🪕 Cahier de Chant Ukulélé
+*Recueil de chansons arrangées pour ukulélé débutant à intermédiaire*
+
 ---
 
-## 📖 Table des Matières (Progression Pédagogique)
+## 📑 Sommaire
 
-| Page | Titre de la Chanson | Artiste | Niveau & Accords Requis |
+| Page | Chanson | Artiste / Origine | Accords & Tonalité |
 | :---: | :--- | :--- | :--- |
-| **2** | **Théorie** | — | — |
-| | **🟢 Niveau 1 — Morceaux à 2 accords** | | |
-| **3** | **Vent frais, vent du matin** | Traditionnel (Canon) | `Am`, `Em` |
-| **4** | **Histoire de mensonges** | Fred Pellerin | `C`, `G` |
-| | **🟡 Niveau 2 — Morceaux à 3 accords (Réutilisation)** | | |
-| **5** | **Heureux d’un printemps** | Paul Piché | `Am`, `G`, `Em` *(réutilise les 3 accords majeurs/mineurs)* |
-| **6** | **Santiano** | Hugues Aufray | `Am`, `G`, `Em` *(chant de marin rassembleur)* |
-| **7** | **La légende indienne** | Les Karrik | `Em`, `D`, `G` *(introduit `D`)* |
-| | **🔵 Niveau 3 — Morceaux à 4 accords populaires** | | |
-| **8** | **Riptide** | Vance Joy | `Am`, `G`, `C`, `F` *(introduit `F`)* |
-| **9** | **Les étoiles filantes** | Les Cowboys Fringants | `Am`, `G`, `Em`, `F` *(combine `Em` et `F`)* |
-| **10** | **Marine marchande** | Les Cowboys Fringants | `C`, `G`, `Am`, `F` *(boucle festive pop/folk)* |
-| **11** | **I'm Yours** | Jason Mraz | `C`, `G`, `Am`, `F` *(groove reggae/calypso décontracté)* |
-| **12** | **Les Aventuriers** | Traditionnel / Feu de camp | `G`, `Em`, `Am7`, `D7` *(accords 7èmes faciles)* |
-| | **🟣 Niveau 4 — Morceaux à 5 accords (Arpèges & Nuances)** | | |
-| **13** | **Hallelujah** | Leonard Cohen / Jeff Buckley | `C`, `Am`, `F`, `G`, `E7` *(arpège 6/8, introduit `E7`)* |
-| **14** | **Qui peut faire de la voile sans vent** | Traditionnel / Folklore | `Am`, `Dm`, `G`, `C`, `Em` *(valse 3/4, introduit `Dm`)* |
-
-> [!TIP]
-> ### 🎥 Recommandation Vidéo : La chaîne « Ben au Ukulélé » *(Un clin d'œil spécial pour Ben !)*
-> Tutoriels pas-à-pas, vidéos d'accompagnement (play-alongs) et conseils pratiques de la chaîne **Ben au Ukulélé** pour bien débuter, maîtriser les rythmiques et jouer facilement ses premiers morceaux au ukulélé.
->
-> 🌐 **Liens d'accès directs (à saisir ou scanner à l'impression) :**
-> - 🎬 **1<sup>er</sup> Cours Débutant (20 min chrono) :** `https://www.youtube.com/watch?v=98dizc1ZNFw`
-> - 📺 **Chaîne complète & Tutoriels :** `https://www.youtube.com/@benauukulele`
-> - 📱 *(Des QR Codes grand format haute définition sont directement imprimés sur la première page du cahier pour être scannés depuis votre téléphone)*
+| **1** | **Table des matières & Chaîne YouTube** | Ben au Ukulélé | Conseils & Vidéos pédagogiques |
+| **2** | **Théorie** | — | Guide des notes & 35 accords |
+| **3** | **Vent frais, vent du matin** | Traditionnel (Canon) | 2 accords : Am, Em |
+| **4** | **Histoire de mensonges** | Fred Pellerin | 2 accords : C, G |
+| **5** | **Heureux d’un printemps** | Paul Piché | 3 accords : Am, G, Em |
+| **6** | **Santiano** | Hugues Aufray | 3 accords : Am, G, Em |
+| **7** | **La légende indienne** | Les Compagnons de la Chanson | 3 accords : Em, D, G |
+| **8** | **Riptide** | Vance Joy | 4 accords : Am, G, C, F |
+| **9** | **Les étoiles filantes** | Les Cowboys Fringants | 4 accords : Am, G, Em, F |
+| **10** | **Marine marchande** | Les Cowboys Fringants | 4 accords : C, G, Am, F |
+| **11** | **I'm Yours** | Jason Mraz | 4 accords : C, G, Am, F |
+| **12** | **Les Aventuriers** | Traditionnel / Feu de camp | 4 accords : G, Em, Am7, D7 |
+| **13** | **Hallelujah** | Leonard Cohen / Jeff Buckley | 5 accords : C, Am, F, G, E7 |
+| **14** | **Qui peut faire de la voile sans vent** | Traditionnel / Folklore | 5 accords : Am, Dm, G, C, Em |
 
 ---
 
-## Page 2 : Théorie
+## 🎥 Recommandation Vidéo : La chaîne « Ben au Ukulélé »
+> Tutoriels pas-à-pas, vidéos d'accompagnement (play-alongs) et conseils pratiques de la chaîne **Ben au Ukulélé** pour bien débuter, maîtriser les rythmiques et jouer facilement ses premiers morceaux au ukulélé.
 
-### 🎹 Correspondance Solfège Français ↔ Nomenclature Internationale & Clavier
-| Anglais (Notation) | C | D | E | F | G | A | B |
-| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| **Français (Solfège)** | **Do** | **Ré** | **Mi** | **Fa** | **Sol** | **La** | **Si** |
+---
 
-```text
-  +---+---+---+---+---+---+---+---+---+---+---+---+---+
-  |   | C#|   | D#|   |   | F#|   | G#|   | A#|   |   |  <- Touches Noires
-  |   +---+   +---+   |   +---+   +---+   +---+   |   |
-  | C   |   D   |   E | F   |   G   |   A   |   B | C |  <- Touches Blanches
-  | Do  |  Ré   |  Mi | Fa  |  Sol  |  La   |  Si | Do|
-  +-----+-------+-----+-----+-------+-------+-----+---+
-```
-
-*(Consultez [cahier_ukulele.html](file:///Users/frederic.tardif/Documents/perso/ukulele-songbook/cahier_ukulele.html#page-2) pour le poster visuel avec diagrammes vectoriels et clavier graphique).*
+## 📖 Théorie
+*Guide des correspondances anglo-saxon / français (C = Do, D = Ré, etc.), repère visuel d'accordage standard (G - C - E - A) et tableau complet des 35 accords indispensables au ukulélé.*
 
 ---
 
@@ -113,6 +93,7 @@ Allons dans le vent !
 - **Voix 2 :** Entre quand la Voix 1 arrive à *« Vent qui souffle... »*
 - **Voix 3 :** Entre quand la Voix 1 arrive à *« Joie du vent... »*
 - **Voix 4 :** Entre quand la Voix 1 arrive à *« Allons dans le vent... »*
+
 
 ---
 
@@ -199,10 +180,11 @@ C                                               C
 y’en tomba des framboises.                      mon histoire de mensonges.
 ```
 
+
 ---
 
 # 🎵 Heureux d'un printemps
-*Artiste : Paul Piché*
+*Artiste : Paul Piché (1977)*
 
 ---
 
@@ -210,7 +192,7 @@ y’en tomba des framboises.                      mon histoire de mensonges.
 - **Page :** 5
 - **Tonalité :** La mineur (Am)
 - **Rythmique (Strumming) :** `↓   ↓ ↑   ↑ ↓ ↑` *(Rythme Swing / Shuffle québécois entraînant)*
-- **Tempo :** Vif et rythmé (~130 - 137 BPM)
+- **Tempo :** Vif et rythmé (~135 BPM)
 - **Mesure :** 4/4
 - **Accords :** 
   - `Am` `[2 0 0 0]` — Corde G frette 2
@@ -221,7 +203,7 @@ y’en tomba des framboises.                      mon histoire de mensonges.
 
 ## 🎼 Grille et Paroles
 
-### 🌟 Refrain (après chaque couplet)
+### 🌟 Refrain / Turlute (après chaque couplet)
 ```text
            Am          G
 Avri di da di da di di dum
@@ -234,36 +216,57 @@ dum di da di da da da di di da di  (x2)
 ### 📖 Couplets
 
 ```text
-[Couplet 1]                                     [Couplet 4]
-Am                                      G       Am                                     G
-Heureux d’un printemps qui m’chauffe la couenne On dit qu’l’hiver est blanc comme un nuage
-                        Em        Am                                 Em            Am
-Triste d’avoir manqué encore un hiver           Mais ça évidemment dans l’chalet près du foyer
-                                          G                                                         G
-J’peux pas faire autrement ça m’fait d’la peine Dans l’fond c’est salissant au prix s’qui est l’chauffage
-                                  Em                 Am                                          Em               Am
-On vit rien qu’au printemps l’printemps dure pas longtemps Y’a pas pire moment d’l’année quand t’es pris pour t’endetter
+[Couplet 1]
+Am                                      G
+Heureux d’un printemps qui m’chauffe la couenne,
+                        Em        Am
+Triste d’avoir manqué encore un hiver.
+                                          G
+J’peux pas faire autrement, ça m’fait d’la peine,
+        Em                  Am
+On vit rien qu’au printemps, l’printemps dure pas longtemps.
 
-[Couplet 2]                                     [Couplet 5]
-Am                                        G     Am                                               G
-Assis su’l’bord d’mon trou j’me creuse la tête  Fait qu’j’m’en retourne dans mon trou creuser ma peine
-                                   Em                 Am                                    Em             Am
-J’pense au bonheur des gens j’sais ben qu’ça va pas durer J’ai vu l’surintendant j’peux rien t’dire en attendant
-                                              G                                       G
-Ça a l’air qu’ça prend des sous pour faire la fête        Le jour où ça sera nous qui ferons la fête
-                                  Em          Am                                 Em                Am
-À qui appartient l’beau temps l’hiver l’été durant        Imaginez l’printemps quand l’hiver sera vraiment blanc
+[Couplet 2]
+Am                                        G
+Assis su’l’bord d’mon trou, j’me creuse la tête,
+                       Em                 Am
+J’pense au bonheur des gens, j’sais ben qu’ça va pas durer.
+                                              G
+Ça a l’air qu’ça prend des sous pour faire la fête,
+               Em          Am
+À qui appartient l’beau temps, l’hiver l’été durant ?
 
-[Couplet 3]                                     [Couplet 6 / Final]
-Am                                      G       Am                                      G
-L’été c’est tellement bon quand t’as la chance  Heureux d’un printemps qui m’chauffe la couenne
-                                Em               Am                             Em        Am
-D’avoir assez d’argent pour voyager sans t’inquiéter      Triste d’avoir manqué encore un hiver
-                                     G                                            G
-Pour le fils d’un patron c’est les vacances     J’peux pas faire autrement ça m’fait d’la peine
-                                      Em                Am                                Em                 Am
-Pour la fille du restaurant c’est les sueurs pis les clients  On vit rien qu’au printemps l’printemps dure pas longtemps !
+[Couplet 3]
+Am                                      G
+L’été c’est tellement bon quand t’as la chance
+                 Em               Am
+D’avoir assez d’argent pour voyager sans t’inquiéter.
+                                     G
+Pour le fils d’un patron, c’est les vacances,
+                        Em                         Am
+Pour la fille du restaurant, c’est les sueurs pis les clients.
+
+[Couplet 4]
+Am                                     G
+On dit qu’l’hiver est blanc comme un nuage,
+              Em            Am
+Mais ça évidemment, dans l’chalet près du foyer.
+                                        G
+Dans l’fond c’est salissant au prix qu’est l’chauffage,
+                  Em                    Am
+Y’a pas pire moment d’l’année quand t’es pris pour t’endetter.
+
+[Couplet 5 & Final]
+Am                                               G
+Fait qu’j’m’en retourne dans mon trou creuser ma peine,
+              Em              Am
+J’ai vu l’surintendant, j’peux rien t’dire en attendant.
+                                      G
+Le jour où ça s’ra nous qui ferons la fête,
+             Em                    Am
+Imaginez l’printemps quand l’hiver s’ra vraiment blanc !
 ```
+
 
 ---
 
@@ -347,6 +350,7 @@ En doublant les feux de Saint-Malo              Oui, j'épouserai la belle Margo
                                                 Am                  Em      Am (fin)
                                                 Nous irons jusqu'à San Francisco !
 ```
+
 
 ---
 
@@ -434,6 +438,7 @@ G              D       Em (fin)
 Kao kao kao kao kao kao kao !
 ```
 
+
 ---
 
 # 🎵 Riptide
@@ -501,6 +506,7 @@ This cowboy's running from himself              I love you when you're singing t
     Am                G              C                Am             G                     C (fin)
 And she's been living on the highest shelf      In my throat, 'cause you're gonna sing the words wrong
 ```
+
 
 ---
 
@@ -622,6 +628,7 @@ On s'dira que l'on était finalement…
 …que des étoiles filantes !
 ```
 
+
 ---
 
 # 🎵 Marine marchande
@@ -718,6 +725,7 @@ Je me suis engagé dans la marine marchande !    Am
                                                 Je me suis engagé dans la marine marchande !
 ```
 
+
 ---
 
 # 🎵 I'm Yours
@@ -809,6 +817,7 @@ It's what we aim to do
 Our name is our virtue
 ```
 
+
 ---
 
 # 🎵 Les Aventuriers
@@ -899,6 +908,7 @@ Vivre sa vie, du vent plein les voilures
 
 *(Refrain final)*
 
+
 ---
 
 # 🎵 Hallelujah
@@ -960,6 +970,7 @@ She broke your throne and she cut your hair     It's not somebody who's seen the
     G                  E7            Am                G               E7          Am
 And from your lips she drew the hallelujah      It's a cold and it's a broken hallelujah
 ```
+
 
 ---
 
