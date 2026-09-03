@@ -56,4 +56,6 @@ She tied you to her kitchen chair               It's not a cry that you hear at 
 She broke your throne and she cut your hair     It's not somebody who's seen the light
     G                  E7            Am                G               E7          Am
 And from your lips she drew the hallelujah      It's a cold and it's a broken hallelujah
+
+[🪕 Refrain Final (x2)]
 ```
