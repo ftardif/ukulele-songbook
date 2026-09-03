@@ -16,14 +16,15 @@
 | **7** | **La légende indienne** | Les Karrik | 3 accords : Am, G, C |
 | **8** | **Riptide** | Vance Joy | 4 accords : Am, G, C, F |
 | **9** | **Les étoiles filantes** | Les Cowboys Fringants | 4 accords : Am, G, Em, F |
-| **10** | **Marine marchande** | Les Cowboys Fringants | 5 accords : C, G, Am, Em, F |
-| **11** | **I'm Yours** | Jason Mraz | 4 accords : C, G, Am, F |
-| **12** | **Les Aventuriers** | Traditionnel / Feu de camp | 4 accords : G, Em, Am7, D7 |
-| **13** | **Ensemble on est mieux** | Jamboree / Chant scout | 5 accords : Em, Am, C, B7, G |
-| **14** | **Fendez le bois** | Folklore québécois / Traditionnel | 5 accords : Dm, C, A, F, Em |
-| **15** | **Job le Beatnik** | Lawrence Lepage | 5 accords : Am, Dm, E7, G7, C |
-| **16** | **Hallelujah** | Leonard Cohen / Jeff Buckley | 5 accords : C, Am, F, G, E7 |
-| **17** | **Qui peut faire de la voile sans vent** | Traditionnel / Folklore | 5 accords : Am, Dm, G, C, Em |
+| **10** | **Le matou revient** | Steve Waring | 4 accords : Am, G, F, E7 |
+| **11** | **Marine marchande** | Les Cowboys Fringants | 5 accords : C, G, Am, Em, F |
+| **12** | **I'm Yours** | Jason Mraz | 4 accords : C, G, Am, F |
+| **13** | **Les Aventuriers** | Traditionnel / Feu de camp | 4 accords : G, Em, Am7, D7 |
+| **14** | **Ensemble on est mieux** | Jamboree / Chant scout | 5 accords : Em, Am, C, B7, G |
+| **15** | **Fendez le bois** | Folklore québécois / Traditionnel | 5 accords : Dm, C, A, F, Em |
+| **16** | **Job le Beatnik** | Lawrence Lepage | 5 accords : Am, Dm, E7, G7, C |
+| **17** | **Hallelujah** | Leonard Cohen / Jeff Buckley | 5 accords : C, Am, F, G, E7 |
+| **18** | **Qui peut faire de la voile sans vent** | Traditionnel / Folklore | 5 accords : Am, Dm, G, C, Em |
 
 ---
 
@@ -668,13 +669,131 @@ Des étoiles filantes !
 
 ---
 
+# 🎵 Le matou revient
+*Artiste : Steve Waring (1971)*
+
+---
+
+## 📌 Informations & Repères
+- **Page :** 10
+- **Tonalité :** La mineur (Am)
+- **Progression d'accords :** Boucle continue `Am — G — F — E7` *(Descente andalouse / Folk)*
+- **Rythmique (Strumming) :** `↓   ↓ ↑   ↑ ↓ ↑` *(Marche entraînante / Humour)*
+- **Tempo :** ~115 - 120 BPM
+- **Mesure :** 4/4
+- **Accords :** 
+  - `Am` `[2 0 0 0]` — Corde G frette 2
+  - `G` `[0 2 3 2]` — Corde C(2), A(2), E(3)
+  - `F` `[2 0 1 0]` — Corde E(1), G(2)
+  - `E7` `[1 2 0 2]` — Corde G(1), C(2), A(2)
+
+---
+
+## 🎼 Grille et Paroles
+
+### 🌟 Refrain (après chaque couplet)
+```text
+Am             G       F                E7
+Mais le matou revient le jour suivant,
+Am             G       F             E7 (Am)
+Le matou revient, il est toujours vivant !
+```
+
+---
+
+```text
+[Intro : Am | G | F | E7 (x2)]
+
+[Couplet 1 — Le Canada]
+Am               G       F               E7
+Thompson, le vieux fermier, a beaucoup d'ennuis,
+Am                 G             F                 E7
+Il n'arrive pas à s'débarrasser de son vieux gros chat gris.
+Am                  G          F             E7
+Pour mettre à la porte son chat, il a tenté n'importe quoi,
+Am               G              F           E7
+Il l'a même posté au Canada et lui a dit : « Tu resteras là ! »
+
+[Refrain]
+Am             G       F                E7
+Mais le matou revient le jour suivant,
+Am             G       F             E7
+Le matou revient, il est toujours vivant !  (bis)
+
+[Couplet 2 — La rivière]
+Am                  G        F             E7
+Thompson paie un petit gars pour assassiner le chat,
+Am               G       F              E7
+L'enfant part à la pêche, l'animal dans les bras.
+Am             G          F             E7
+Au milieu de la rivière, le canot a coulé,
+Am                G               F                 E7
+Le fermier apprend que l'enfant s'est noyééééé... (miaou !)
+
+[Refrain : Mais le matou revient...]
+
+[Couplet 3 — La dynamite]
+Am                 G        F              E7
+Le voisin de Thompson commence à s'énerver,
+Am                  G         F           E7
+Il prend sa carabine et la bourre de TNT !
+Am              G          F             E7
+Le fusil éclate, la ville est affolée,
+Am                     G            F               E7
+Une pluie d'petits morceaux d'homme vient de tomber !
+(parlé) : Tiens ! Un doigt ! Oh ! Un genou ! Hum ! Un œil !
+
+[Refrain : Mais le matou revient...]
+
+[Couplet 4 — Le boucher]
+Am                 G          F                E7
+Le fermier découragé envoie son chat chez l'boucher,
+Am               G             F             E7
+Pour qu'on en fasse enfin du bon hachis Parmentier.
+Am             G          F             E7
+Le chat hurle et disparaît dans la machine...
+Am               G            F                  E7
+« De la viande poilue » est affiché sur la vitrine !
+
+[Refrain : Mais le matou revient...]
+
+[Couplet 5 — Le ballon]
+Am              G          F            E7
+Un fou s'engage à partir en ballon,
+Am                G        F                 E7
+Pour aller dans la lune déposer le chaton.
+Am               G        F              E7
+Au cours du voyage, le ballon a crevé,
+Am                 G            F               E7
+À l'autre bout du monde, un cadavre est retrouvé !
+
+[Couplet 6 — Cap Kennedy & Final]
+Am               G             F             E7
+Cette fois-ci, on envoie le chat au Cap Kennedy,
+Am                 G            F                E7
+C'est dans une fusée à trois étages qu'il est parti.
+Am                 G           F               E7
+Le fermier saute de joie, car il n'a plus de soucis...
+Am                    G          F                 E7
+Le lendemain matin... on l'appelle de Miami ! (Miaou !)
+
+[Refrain Final (x2)]
+Am             G       F                E7
+Mais le matou revient le jour suivant,
+Am             G       F             E7            Am (fin)
+Le matou revient, il est toujours vivant !  Miaou !
+```
+
+
+---
+
 # 🎵 Marine marchande
 *Artiste : Les Cowboys Fringants (2015)*
 
 ---
 
 ## 📌 Informations & Repères
-- **Page :** 10
+- **Page :** 11
 - **Tonalité :** Do Majeur (C)
 - **Rythmique (Strumming) :** `↓   ↓ ↑   ↑ ↓ ↑` *(Reel festif / Chanson à boire entraînante)*
 - **Tempo :** ~125 BPM
@@ -825,7 +944,7 @@ Oui, j'me suis engagé dans la marine marchande !
 ---
 
 ## 📌 Informations & Repères
-- **Page :** 11
+- **Page :** 12
 - **Tonalité :** Do Majeur (C)
 - **Progression d'accords :** Boucle d'or `C — G — Am — F`
 - **Rythmique (Strumming) :** `↓   (tap)   ↑   (tap)   ↑` *(Reggae / Calypso skank décontracté)*
@@ -917,7 +1036,7 @@ Our name is our virtue
 ---
 
 ## 📌 Informations & Repères
-- **Page :** 12
+- **Page :** 13
 - **Tonalité :** Sol Majeur (G)
 - **Progression d'accords :** Boucle classique `G — Em — Am7 — D7`
 - **Rythmique (Strumming) :** `↓   ↓ ↑   ↑ ↓ ↑` *(Bas, Bas-Haut, Haut-Bas-Haut / Rythme Calypso)*
@@ -1008,7 +1127,7 @@ Vivre sa vie, du vent plein les voilures
 ---
 
 ## 📌 Informations & Repères
-- **Page :** 13
+- **Page :** 14
 - **Tonalité :** Mi mineur (Em)
 - **Rythmique (Strumming) :** `↓   ↓ ↑   ↑ ↓ ↑` *(Pulsation feu de camp / Pop festive)*
 - **Tempo :** Vif et entraînant (~115 - 120 BPM)
@@ -1161,7 +1280,7 @@ Les scouts nous portent, nous font danser comme le feu !
 ---
 
 ## 📌 Informations & Repères
-- **Page :** 14
+- **Page :** 15
 - **Tonalité :** Ré mineur (Dm)
 - **Rythmique (Strumming) :** `↓   ↓ ↑   ↑ ↓ ↑` *(Reel / Marche québécoise entraînante)*
 - **Tempo :** ~115 - 120 BPM
@@ -1260,7 +1379,7 @@ Dormez la belle, il n'est point jour !
 ---
 
 ## 📌 Informations & Repères
-- **Page :** 15
+- **Page :** 16
 - **Tonalité :** La mineur (Am)
 - **Rythmique (Strumming) :** `↓   ↓ ↑   ↑ ↓ ↑` *(Swing / Jazz Folk Beatnik)*
 - **Tempo :** Modéré et décontracté (~105 - 110 BPM)
@@ -1423,7 +1542,7 @@ Avec mes idées noires !
 ---
 
 ## 📌 Informations & Repères
-- **Page :** 16
+- **Page :** 17
 - **Tonalité :** Do Majeur (C)
 - **Mesure :** 6/8 (Ballade en 6 temps)
 - **Rythmique (Strumming) :** `↓   ↓ ↑ ↓   ↓ ↑` *(1, 2-et-3, 4, 5-et-6)* ou arpège doux P-I-M-A-M-I
@@ -1486,7 +1605,7 @@ And from your lips she drew the hallelujah      It's a cold and it's a broken ha
 ---
 
 ## 📌 Informations & Repères
-- **Page :** 17
+- **Page :** 18
 - **Tonalité :** La mineur (Am)
 - **Mesure :** 3/4 (Valse lente)
 - **Rythmique (Strumming) :** `↓   ↓ ↑   ↓ ↑` *(1, 2-et, 3-et)* ou arpège doux Pouce-Index-Majeur-Annulaire

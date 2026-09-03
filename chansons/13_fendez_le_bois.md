@@ -4,7 +4,7 @@
 ---
 
 ## 📌 Informations & Repères
-- **Page :** 14
+- **Page :** 15
 - **Tonalité :** Ré mineur (Dm)
 - **Rythmique (Strumming) :** `↓   ↓ ↑   ↑ ↓ ↑` *(Reel / Marche québécoise entraînante)*
 - **Tempo :** ~115 - 120 BPM

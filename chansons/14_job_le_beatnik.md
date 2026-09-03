@@ -4,7 +4,7 @@
 ---
 
 ## 📌 Informations & Repères
-- **Page :** 15
+- **Page :** 16
 - **Tonalité :** La mineur (Am)
 - **Rythmique (Strumming) :** `↓   ↓ ↑   ↑ ↓ ↑` *(Swing / Jazz Folk Beatnik)*
 - **Tempo :** Modéré et décontracté (~105 - 110 BPM)

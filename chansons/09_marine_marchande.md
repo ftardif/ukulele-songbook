@@ -4,7 +4,7 @@
 ---
 
 ## 📌 Informations & Repères
-- **Page :** 10
+- **Page :** 11
 - **Tonalité :** Do Majeur (C)
 - **Rythmique (Strumming) :** `↓   ↓ ↑   ↑ ↓ ↑` *(Reel festif / Chanson à boire entraînante)*
 - **Tempo :** ~125 BPM

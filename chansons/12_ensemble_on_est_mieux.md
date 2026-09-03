@@ -4,7 +4,7 @@
 ---
 
 ## 📌 Informations & Repères
-- **Page :** 13
+- **Page :** 14
 - **Tonalité :** Mi mineur (Em)
 - **Rythmique (Strumming) :** `↓   ↓ ↑   ↑ ↓ ↑` *(Pulsation feu de camp / Pop festive)*
 - **Tempo :** Vif et entraînant (~115 - 120 BPM)

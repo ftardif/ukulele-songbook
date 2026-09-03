@@ -4,7 +4,7 @@
 ---
 
 ## 📌 Informations & Repères
-- **Page :** 11
+- **Page :** 12
 - **Tonalité :** Do Majeur (C)
 - **Progression d'accords :** Boucle d'or `C — G — Am — F`
 - **Rythmique (Strumming) :** `↓   (tap)   ↑   (tap)   ↑` *(Reggae / Calypso skank décontracté)*
