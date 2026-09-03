@@ -20,8 +20,9 @@
 | **11** | **I'm Yours** | Jason Mraz | 4 accords : C, G, Am, F |
 | **12** | **Les Aventuriers** | Traditionnel / Feu de camp | 4 accords : G, Em, Am7, D7 |
 | **13** | **Ensemble on est mieux** | Jamboree / Chant scout | 5 accords : Em, Am, C, B7, G |
-| **14** | **Hallelujah** | Leonard Cohen / Jeff Buckley | 5 accords : C, Am, F, G, E7 |
-| **15** | **Qui peut faire de la voile sans vent** | Traditionnel / Folklore | 5 accords : Am, Dm, G, C, Em |
+| **14** | **Fendez le bois** | Folklore québécois / Traditionnel | 5 accords : Dm, C, A, F, Em |
+| **15** | **Hallelujah** | Leonard Cohen / Jeff Buckley | 5 accords : C, Am, F, G, E7 |
+| **16** | **Qui peut faire de la voile sans vent** | Traditionnel / Folklore | 5 accords : Am, Dm, G, C, Em |
 
 ---
 
@@ -1153,13 +1154,112 @@ Les scouts nous portent, nous font danser comme le feu !
 
 ---
 
+# 🎵 Fendez le bois
+*Artiste : Folklore québécois / Traditionnel*
+
+---
+
+## 📌 Informations & Repères
+- **Page :** 14
+- **Tonalité :** Ré mineur (Dm)
+- **Rythmique (Strumming) :** `↓   ↓ ↑   ↑ ↓ ↑` *(Reel / Marche québécoise entraînante)*
+- **Tempo :** ~115 - 120 BPM
+- **Mesure :** 2/4 ou 4/4
+- **Accords :** 
+  - `Dm` `[2 2 1 0]` — Cordes G(2), C(2), E(1)
+  - `C` `[0 0 0 3]` — Corde A frette 3
+  - `A` `[2 1 0 0]` — Cordes G(2), C(1)
+  - `F` `[2 0 1 0]` — Cordes G(2), E(1)
+  - `Em` `[0 4 3 2]` — Escalier : A(2), E(3), C(4)
+
+---
+
+## 🎼 Grille et Paroles
+
+### 🌟 Refrain (après chaque couplet)
+```text
+Dm            C      A          Dm
+Fendez le bois, chauffez le four,
+            C        A           Dm
+Dormez la belle, il n'est point jour !
+```
+
+---
+
+```text
+[Intro : Dm | C A | Dm (x2)]
+
+[Couplet 1]
+Dm          C    A     Dm           C    A    Dm
+À la claire fontaine, m'en allant promener,
+              F   C  F             Em    Dm   A
+J'ai trouvé l'eau si belle que je m'y suis baigné.
+
+[Refrain]
+Dm            C      A          Dm
+Fendez le bois, chauffez le four,
+            C        A           Dm
+Dormez la belle, il n'est point jour !
+
+[Couplet 2]
+Dm               C   A     Dm                C   A   Dm
+Sous les feuilles d'un chêne, je me suis fait sécher,
+                 F   C   F            Em        Dm   A
+Sur la plus haute branche, le rossignol chantait.
+
+[Refrain]
+Dm            C      A          Dm
+Fendez le bois, chauffez le four,
+            C        A           Dm
+Dormez la belle, il n'est point jour !
+
+[Couplet 3]
+Dm              C   A    Dm                C   A   Dm
+Chante, rossignol, chante, toi qui as le cœur gai,
+              F   C  F              Em     Dm   A
+Tu as le cœur à rire, moi je l'ai à pleurer.
+
+[Refrain]
+Dm            C      A          Dm
+Fendez le bois, chauffez le four,
+            C        A           Dm
+Dormez la belle, il n'est point jour !
+
+[Couplet 4]
+Dm             C   A    Dm           C   A   Dm
+J'ai perdu ma maîtresse sans l'avoir mérité,
+                  F   C  F           Em      Dm   A
+Pour un bouquet de roses que je lui refusai.
+
+[Refrain]
+Dm            C      A          Dm
+Fendez le bois, chauffez le four,
+            C        A           Dm
+Dormez la belle, il n'est point jour !
+
+[Couplet 5 & Final]
+Dm                C  A   Dm               C   A   Dm
+Je voudrais que la rose fût encore au rosier,
+                F   C   F             Em     Dm   A
+Et moi et ma maîtresse dans les mêmes amitiés.
+
+[Refrain Final (x2)]
+Dm            C      A          Dm
+Fendez le bois, chauffez le four,
+            C        A           Dm (fin)
+Dormez la belle, il n'est point jour !
+```
+
+
+---
+
 # 🎵 Hallelujah
 *Artiste : Leonard Cohen / Jeff Buckley*
 
 ---
 
 ## 📌 Informations & Repères
-- **Page :** 14
+- **Page :** 15
 - **Tonalité :** Do Majeur (C)
 - **Mesure :** 6/8 (Ballade en 6 temps)
 - **Rythmique (Strumming) :** `↓   ↓ ↑ ↓   ↓ ↑` *(1, 2-et-3, 4, 5-et-6)* ou arpège doux P-I-M-A-M-I
@@ -1222,7 +1322,7 @@ And from your lips she drew the hallelujah      It's a cold and it's a broken ha
 ---
 
 ## 📌 Informations & Repères
-- **Page :** 15
+- **Page :** 16
 - **Tonalité :** La mineur (Am)
 - **Mesure :** 3/4 (Valse lente)
 - **Rythmique (Strumming) :** `↓   ↓ ↑   ↓ ↑` *(1, 2-et, 3-et)* ou arpège doux Pouce-Index-Majeur-Annulaire

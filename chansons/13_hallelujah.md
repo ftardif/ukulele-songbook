@@ -4,7 +4,7 @@
 ---
 
 ## 📌 Informations & Repères
-- **Page :** 14
+- **Page :** 15
 - **Tonalité :** Do Majeur (C)
 - **Mesure :** 6/8 (Ballade en 6 temps)
 - **Rythmique (Strumming) :** `↓   ↓ ↑ ↓   ↓ ↑` *(1, 2-et-3, 4, 5-et-6)* ou arpège doux P-I-M-A-M-I
