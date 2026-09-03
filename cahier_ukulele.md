@@ -8,7 +8,7 @@
 | Page | Chanson | Artiste / Origine | Accords & Tonalité |
 | :---: | :--- | :--- | :--- |
 | **1** | **Table des matières & Chaîne YouTube** | Ben au Ukulélé | Conseils & Vidéos pédagogiques |
-| **2** | **Théorie** | — | Guide des notes & Grille des accords |
+| **2** | **Théorie : Notes, Accordage & Grille** | — | G - C - E - A |
 | **3** | **Vent frais, vent du matin** | Traditionnel (Canon) | 2 accords : Am, Em |
 | **4** | **Histoire de mensonges** | Fred Pellerin | 2 accords : C, G |
 | **5** | **Heureux d’un printemps** | Paul Piché | 3 accords : Am, G, Em |
