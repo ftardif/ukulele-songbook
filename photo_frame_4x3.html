@@ -1,0 +1,204 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <title>Ben au Ukulélé — Impression Cadre Photo 4:3</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700;800&display=swap" rel="stylesheet">
+  <style>
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+
+    body {
+      font-family: 'Inter', system-ui, -apple-system, sans-serif;
+      background-color: #0f172a;
+      color: #f8fafc;
+      min-height: 100vh;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      padding: 24px 20px;
+    }
+
+    .controls-panel {
+      background: #1e293b;
+      border: 1px solid #334155;
+      border-radius: 12px;
+      padding: 14px 22px;
+      margin-bottom: 22px;
+      display: flex;
+      align-items: center;
+      gap: 18px;
+      box-shadow: 0 10px 25px rgba(0,0,0,0.4);
+    }
+
+    .controls-title {
+      font-weight: 700;
+      font-size: 14px;
+      color: #38bdf8;
+      display: flex;
+      align-items: center;
+      gap: 8px;
+    }
+
+    .btn-print {
+      background: linear-gradient(135deg, #2563eb 0%, #1d4ed8 100%);
+      color: #ffffff;
+      border: none;
+      padding: 9px 18px;
+      font-size: 13px;
+      font-weight: 700;
+      border-radius: 8px;
+      cursor: pointer;
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      box-shadow: 0 4px 12px rgba(37, 99, 235, 0.4);
+      transition: all 0.2s;
+    }
+
+    .btn-print:hover {
+      transform: translateY(-2px);
+      box-shadow: 0 6px 16px rgba(37, 99, 235, 0.5);
+    }
+
+    .size-select {
+      background: #0f172a;
+      border: 1px solid #475569;
+      color: #f8fafc;
+      padding: 8px 12px;
+      border-radius: 6px;
+      font-size: 13px;
+      font-weight: 600;
+      cursor: pointer;
+    }
+
+    /* Print Paper Container */
+    .print-sheet {
+      background: #ffffff;
+      width: 297mm;
+      height: 210mm; /* A4 Landscape */
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      position: relative;
+      box-shadow: 0 12px 35px rgba(0,0,0,0.5);
+      border-radius: 4px;
+      overflow: hidden;
+    }
+
+    /* 4:3 Photo Frame Wrapper */
+    .frame-container {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      position: relative;
+      transition: all 0.2s ease;
+    }
+
+    .photo-4x3 {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      display: block;
+    }
+
+    /* Mode 1: Full Page 4:3 (280mm x 210mm) */
+    .mode-full .frame-container {
+      width: 280mm;
+      height: 210mm;
+    }
+
+    /* Mode 2: 8" x 6" standard photo frame (203.2mm x 152.4mm) */
+    .mode-8x6 .frame-container {
+      width: 203.2mm;
+      height: 152.4mm;
+      outline: 1.5px dashed #64748b;
+      box-shadow: 0 4px 20px rgba(0,0,0,0.15);
+    }
+
+    /* Mode 3: 4" x 3" mini frame (101.6mm x 76.2mm) */
+    .mode-4x3 .frame-container {
+      width: 101.6mm;
+      height: 76.2mm;
+      outline: 1.5px dashed #64748b;
+      box-shadow: 0 4px 20px rgba(0,0,0,0.15);
+    }
+
+    .cut-info {
+      position: absolute;
+      bottom: 10mm;
+      font-size: 10px;
+      color: #94a3b8;
+      display: none;
+    }
+
+    .mode-8x6 .cut-info,
+    .mode-4x3 .cut-info {
+      display: block;
+    }
+
+    /* Print media query */
+    @media print {
+      body {
+        background: transparent !important;
+        padding: 0 !important;
+        margin: 0 !important;
+      }
+
+      .controls-panel {
+        display: none !important;
+      }
+
+      @page {
+        size: A4 landscape;
+        margin: 0;
+      }
+
+      .print-sheet {
+        box-shadow: none !important;
+        width: 297mm !important;
+        height: 210mm !important;
+        border-radius: 0 !important;
+      }
+    }
+  </style>
+</head>
+<body class="mode-full">
+
+  <div class="controls-panel">
+    <div class="controls-title">
+      🖼️ <span>Cadre Photo 4:3 — Ben au Ukulélé</span>
+    </div>
+
+    <label style="font-size: 13px; color: #94a3b8;">Format d'encadrement :</label>
+    <select class="size-select" onchange="changeMode(this.value)">
+      <option value="mode-full">Plein format 4:3 (Remplit la page paysage A4)</option>
+      <option value="mode-8x6">Format cadre standard 8" × 6" (20.3 × 15.2 cm) avec traits de coupe</option>
+      <option value="mode-4x3">Format cadre photo 4" × 3" (10.2 × 7.6 cm) avec traits de coupe</option>
+    </select>
+
+    <button class="btn-print" onclick="window.print()">
+      🖨️ Imprimer / Exporter en PDF
+    </button>
+  </div>
+
+  <div class="print-sheet">
+    <div class="frame-container">
+      <img src="images/ukulele_scout_4x3.jpg" alt="Ben au Ukulélé - Cadre 4x3" class="photo-4x3">
+    </div>
+    <div class="cut-info">✂️ Découpez le long des pointillés pour insérer dans votre cadre photo</div>
+  </div>
+
+  <script>
+    function changeMode(mode) {
+      document.body.className = mode;
+    }
+  </script>
+
+</body>
+</html>
